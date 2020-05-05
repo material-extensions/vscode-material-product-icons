@@ -1,0 +1,269 @@
+{
+	"fonts": [
+		{
+			"id": "material-icons",
+			"src": [
+				{
+					"path": "./material-icons.woff2",
+					"format": "woff2"
+				}
+			],
+			"weight": "normal",
+			"style": "normal"
+		},
+		{
+			"id": "material-icons-outlined",
+			"src": [
+				{
+					"path": "./material-icons-outlined.woff2",
+					"format": "woff2"
+				}
+			],
+			"weight": "normal",
+			"style": "normal"
+		},
+		{
+			"id": "material-icons-round",
+			"src": [
+				{
+					"path": "./material-icons-round.woff2",
+					"format": "woff2"
+				}
+			],
+			"weight": "normal",
+			"style": "normal"
+		}
+	],
+	"iconDefinitions": {
+		"files": {
+			"fontCharacter": "explore"
+		},
+		"search": {
+			"fontCharacter": "search"
+		},
+		"source-control": {
+			"fontCharacter": "history"
+		},
+		"debug-alt-2": {
+			"fontCharacter": "sports_esports"
+		},
+		"remote-explorer": {
+			"fontCharacter": "airplay"
+		},
+		"extensions": {
+			"fontCharacter": "extension"
+		},
+		"account": {
+			"fontCharacter": "face"
+		},
+		"settings-gear": {
+			"fontCharacter": "settings"
+		},
+		"new-file": {
+			"fontCharacter": "note_add",
+			"fontId": "material-icons-outlined"
+		},
+		"new-folder": {
+			"fontCharacter": "create_new_folder",
+			"fontId": "material-icons-outlined"
+		},
+		"refresh": {
+			"fontCharacter": "refresh",
+			"fontId": "material-icons-outlined"
+		},
+		"collapse-all": {
+			"fontCharacter": "indeterminate_check_box",
+			"fontId": "material-icons-outlined"
+		},
+		"add": {
+			"fontCharacter": "add"
+		},
+		"discard": {
+			"fontCharacter": "delete"
+		},
+		"check": {
+			"fontCharacter": "check"
+		},
+		"list-tree": {
+			"fontCharacter": "account_tree"
+		},
+		"list-flat": {
+			"fontCharacter": "reorder"
+		},
+		"go-to-file": {
+			"fontCharacter": "insert_drive_file"
+		},
+		"tree-item-expanded": {
+			"fontCharacter": "expand_more"
+		},
+		"folding-expanded": {
+			"fontCharacter": "arrow_right"
+		},
+		"folding-collapsed": {
+			"fontCharacter": "arrow_right"
+		},
+		"feedback": {
+			"fontCharacter": "thumb_up"
+		},
+		"bell": {
+			"fontCharacter": "add_alert"
+		},
+		"close": {
+			"fontCharacter": "close"
+		},
+		"compare-changes": {
+			"fontCharacter": "compare"
+		},
+		"split-horizontal": {
+			"fontCharacter": "vertical_split"
+		},
+		"toolbar-more": {
+			"fontCharacter": "more_horiz"
+		},
+		"git-branch": {
+			"fontCharacter": "call_split"
+		},
+		"remote": {
+			"fontCharacter": "airplay"
+		},
+		"error": {
+			"fontCharacter": "error"
+		},
+		"warning": {
+			"fontCharacter": "warning"
+		},
+		"sync": {
+			"fontCharacter": "refresh"
+		},
+		"debug-pause": {
+			"fontCharacter": "pause"
+		},
+		"debug-step-over": {
+			"fontCharacter": "skip_next"
+		},
+		"debug-step-into": {
+			"fontCharacter": "arrow_downward"
+		},
+		"debug-step-out": {
+			"fontCharacter": "arrow_downward"
+		},
+		"debug-restart": {
+			"fontCharacter": "refresh"
+		},
+		"debug-stop": {
+			"fontCharacter": "stop"
+		},
+		"clear-all": {
+			"fontCharacter": "backspace",
+			"fontId": "material-icons-outlined"
+		},
+		"chrome-minimize": {
+			"fontCharacter": "minimize",
+			"fontId": "material-icons-round"
+		},
+		"chrome-close": {
+			"fontCharacter": "close",
+			"fontId": "material-icons-round"
+		},
+		"chrome-restore": {
+			"fontCharacter": "fullscreen_exit",
+			"fontId": "material-icons-round"
+		},
+		"chrome-maximize": {
+			"fontCharacter": "fullscreen",
+			"fontId": "material-icons-round"
+		},
+		"filter": {
+			"fontCharacter": "settings"
+		},
+		"panel-maximize": {
+			"fontCharacter": "expand_less"
+		},
+		"panel-restore": {
+			"fontCharacter": "expand_more"
+		},
+		"panel-close": {
+			"fontCharacter": "close"
+		},
+		"trash": {
+			"fontCharacter": "delete"
+		},
+		"lock": {
+			"fontCharacter": "lock"
+		},
+		"unlock": {
+			"fontCharacter": "lock_open"
+		},
+		"find-expanded": {
+			"fontCharacter": "expand_more"
+		},
+		"find-collapsed": {
+			"fontCharacter": "chevron_right"
+		},
+		"case-sensitive": {
+			"fontCharacter": "text_fields"
+		},
+		"whole-word": {
+			"fontCharacter": "text_rotation_none"
+		},
+		"regex": {
+			"fontCharacter": "attach_money"
+		},
+		"preserve-case": {
+			"fontCharacter": "format_shapes"
+		},
+		"find-close": {
+			"fontCharacter": "close"
+		},
+		"find-next-match": {
+			"fontCharacter": "arrow_forward"
+		},
+		"find-previous-match": {
+			"fontCharacter": "arrow_back"
+		},
+		"find-selection": {
+			"fontCharacter": "menu_open"
+		},
+		"find-replace": {
+			"fontCharacter": "done"
+		},
+		"find-replace-all": {
+			"fontCharacter": "done_all"
+		},
+		"gear": {
+			"fontCharacter": "settings"
+		},
+		"debug-console": {
+			"fontCharacter": "code"
+		},
+		"exclude": {
+			"fontCharacter": "explore_off"
+		},
+		"search-show-context": {
+			"fontCharacter": "notes"
+		},
+		"search-details": {
+			"fontCharacter": "more_horiz"
+		},
+		"star-full": {
+			"fontCharacter": "star",
+			"fontId": "material-icons-round"
+		},
+		"star-empty": {
+			"fontCharacter": "star_border",
+			"fontId": "material-icons-round"
+		},
+		"star-half": {
+			"fontCharacter": "star_half",
+			"fontId": "material-icons-round"
+		},
+		"cloud-download": {
+			"fontCharacter": "cloud_download",
+			"fontId": "material-icons-outlined"
+		},
+		"cloud-upload": {
+			"fontCharacter": "cloud_upload",
+			"fontId": "material-icons-outlined"
+		}
+	}
+}
