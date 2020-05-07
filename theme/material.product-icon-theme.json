@@ -72,7 +72,7 @@
 			"fontId": "material-icons-outlined"
 		},
 		"collapse-all": {
-			"fontCharacter": "indeterminate_check_box",
+			"fontCharacter": "unfold_less",
 			"fontId": "material-icons-outlined"
 		},
 		"add": {
@@ -157,22 +157,22 @@
 			"fontCharacter": "backspace",
 			"fontId": "material-icons-outlined"
 		},
-		"chrome-minimize": {
-			"fontCharacter": "minimize",
-			"fontId": "material-icons-round"
-		},
-		"chrome-close": {
-			"fontCharacter": "close",
-			"fontId": "material-icons-round"
-		},
-		"chrome-restore": {
-			"fontCharacter": "fullscreen_exit",
-			"fontId": "material-icons-round"
-		},
-		"chrome-maximize": {
-			"fontCharacter": "fullscreen",
-			"fontId": "material-icons-round"
-		},
+		// "chrome-minimize": {
+		// 	"fontCharacter": "minimize",
+		// 	"fontId": "material-icons-round"
+		// },
+		// "chrome-close": {
+		// 	"fontCharacter": "close",
+		// 	"fontId": "material-icons-round"
+		// },
+		// "chrome-restore": {
+		// 	"fontCharacter": "fullscreen_exit",
+		// 	"fontId": "material-icons-round"
+		// },
+		// "chrome-maximize": {
+		// 	"fontCharacter": "fullscreen",
+		// 	"fontId": "material-icons-round"
+		// },
 		"filter": {
 			"fontCharacter": "settings"
 		},
@@ -264,6 +264,18 @@
 		"cloud-upload": {
 			"fontCharacter": "cloud_upload",
 			"fontId": "material-icons-outlined"
+		},
+		"terminal": {
+			"fontCharacter": "web_asset"
+		},
+		"dialog-warning": {
+			"fontCharacter": "warning"
+		},
+		"output": {
+			"fontCharacter": "dvr"
+		},
+		"symbol-property": {
+			"fontCharacter": "list_alt"
 		}
 	}
 }
