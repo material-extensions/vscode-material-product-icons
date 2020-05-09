@@ -4,30 +4,8 @@
 			"id": "material-icons",
 			"src": [
 				{
-					"path": "./material-icons.woff2",
-					"format": "woff2"
-				}
-			],
-			"weight": "normal",
-			"style": "normal"
-		},
-		{
-			"id": "material-icons-outlined",
-			"src": [
-				{
-					"path": "./material-icons-outlined.woff2",
-					"format": "woff2"
-				}
-			],
-			"weight": "normal",
-			"style": "normal"
-		},
-		{
-			"id": "material-icons-round",
-			"src": [
-				{
-					"path": "./material-icons-round.woff2",
-					"format": "woff2"
+					"path": "./material-icons.woff",
+					"format": "woff"
 				}
 			],
 			"weight": "normal",
@@ -36,246 +14,251 @@
 	],
 	"iconDefinitions": {
 		"files": {
-			"fontCharacter": "explore"
+			"fontCharacter": "\\EA01"
 		},
 		"search": {
-			"fontCharacter": "search"
+			"fontCharacter": "\\EA02"
 		},
 		"source-control": {
-			"fontCharacter": "history"
+			"fontCharacter": "\\EA03"
 		},
 		"debug-alt-2": {
-			"fontCharacter": "sports_esports"
+			"fontCharacter": "\\EA04"
 		},
 		"remote-explorer": {
-			"fontCharacter": "airplay"
+			"fontCharacter": "\\EA05"
 		},
 		"extensions": {
-			"fontCharacter": "extension"
+			"fontCharacter": "\\EA07"
 		},
 		"account": {
-			"fontCharacter": "face"
+			"fontCharacter": "\\EA06"
 		},
 		"settings-gear": {
-			"fontCharacter": "settings"
+			"fontCharacter": "\\EA08"
 		},
 		"new-file": {
-			"fontCharacter": "note_add",
-			"fontId": "material-icons-outlined"
+			"fontCharacter": "\\EA09"
 		},
 		"new-folder": {
-			"fontCharacter": "create_new_folder",
-			"fontId": "material-icons-outlined"
+			"fontCharacter": "\\EA0A"
 		},
 		"refresh": {
-			"fontCharacter": "refresh",
-			"fontId": "material-icons-outlined"
+			"fontCharacter": "\\EA0B"
 		},
 		"collapse-all": {
-			"fontCharacter": "unfold_less",
-			"fontId": "material-icons-outlined"
+			"fontCharacter": "\\EA0C"
 		},
 		"add": {
-			"fontCharacter": "add"
+			"fontCharacter": "\\EA0D"
 		},
 		"discard": {
-			"fontCharacter": "delete"
+			"fontCharacter": "\\EA0E"
 		},
 		"check": {
-			"fontCharacter": "check"
+			"fontCharacter": "\\EA0F"
 		},
 		"list-tree": {
-			"fontCharacter": "account_tree"
+			"fontCharacter": "\\EA10"
 		},
 		"list-flat": {
-			"fontCharacter": "reorder"
+			"fontCharacter": "\\EA11"
 		},
 		"go-to-file": {
-			"fontCharacter": "insert_drive_file"
+			"fontCharacter": "\\EA12"
 		},
 		"tree-item-expanded": {
-			"fontCharacter": "expand_more"
-		},
-		"folding-expanded": {
-			"fontCharacter": "arrow_right"
-		},
-		"folding-collapsed": {
-			"fontCharacter": "arrow_right"
+			"fontCharacter": "\\EA13"
 		},
 		"feedback": {
-			"fontCharacter": "thumb_up"
+			"fontCharacter": "\\EA14"
+		},
+		"remote-explorer-feedback": {
+			"fontCharacter": "\\EA14"
 		},
 		"bell": {
-			"fontCharacter": "add_alert"
+			"fontCharacter": "\\EA15"
+		},
+		"bell-dot": {
+			"fontCharacter": "\\EA16"
 		},
 		"close": {
-			"fontCharacter": "close"
+			"fontCharacter": "\\EA17"
 		},
 		"compare-changes": {
-			"fontCharacter": "compare"
+			"fontCharacter": "\\EA18"
 		},
 		"split-horizontal": {
-			"fontCharacter": "vertical_split"
+			"fontCharacter": "\\EA19"
 		},
 		"toolbar-more": {
-			"fontCharacter": "more_horiz"
+			"fontCharacter": "\\EA1A"
 		},
 		"git-branch": {
-			"fontCharacter": "call_split"
+			"fontCharacter": "\\EA1B"
 		},
 		"remote": {
-			"fontCharacter": "airplay"
+			"fontCharacter": "\\EA05"
 		},
 		"error": {
-			"fontCharacter": "error"
+			"fontCharacter": "\\EA1C"
 		},
 		"warning": {
-			"fontCharacter": "warning"
+			"fontCharacter": "\\EA1D"
 		},
 		"sync": {
-			"fontCharacter": "refresh"
+			"fontCharacter": "\\EA0B"
 		},
 		"debug-pause": {
-			"fontCharacter": "pause"
+			"fontCharacter": "\\EA1E"
+		},
+		"debug-start": {
+			"fontCharacter": "\\EA1F"
 		},
 		"debug-step-over": {
-			"fontCharacter": "skip_next"
+			"fontCharacter": "\\EA20"
 		},
 		"debug-step-into": {
-			"fontCharacter": "arrow_downward"
+			"fontCharacter": "\\EA21"
 		},
 		"debug-step-out": {
-			"fontCharacter": "arrow_downward"
+			"fontCharacter": "\\EA22"
 		},
 		"debug-restart": {
-			"fontCharacter": "refresh"
+			"fontCharacter": "\\EA0B"
 		},
 		"debug-stop": {
-			"fontCharacter": "stop"
+			"fontCharacter": "\\EA23"
 		},
 		"clear-all": {
-			"fontCharacter": "backspace",
-			"fontId": "material-icons-outlined"
+			"fontCharacter": "\\EA24"
 		},
-		// "chrome-minimize": {
-		// 	"fontCharacter": "minimize",
-		// 	"fontId": "material-icons-round"
-		// },
-		// "chrome-close": {
-		// 	"fontCharacter": "close",
-		// 	"fontId": "material-icons-round"
-		// },
-		// "chrome-restore": {
-		// 	"fontCharacter": "fullscreen_exit",
-		// 	"fontId": "material-icons-round"
-		// },
-		// "chrome-maximize": {
-		// 	"fontCharacter": "fullscreen",
-		// 	"fontId": "material-icons-round"
-		// },
+		// // "chrome-minimize": {
+		// // 	"fontCharacter": "minimize",
+		// // 	"fontId": "material-icons-round"
+		// // },
+		// // "chrome-close": {
+		// // 	"fontCharacter": "close",
+		// // 	"fontId": "material-icons-round"
+		// // },
+		// // "chrome-restore": {
+		// // 	"fontCharacter": "fullscreen_exit",
+		// // 	"fontId": "material-icons-round"
+		// // },
+		// // "chrome-maximize": {
+		// // 	"fontCharacter": "fullscreen",
+		// // 	"fontId": "material-icons-round"
+		// // },
 		"filter": {
-			"fontCharacter": "settings"
+			"fontCharacter": "\\EA25"
 		},
 		"panel-maximize": {
-			"fontCharacter": "expand_less"
+			"fontCharacter": "\\EA26"
 		},
 		"panel-restore": {
-			"fontCharacter": "expand_more"
+			"fontCharacter": "\\EA27"
 		},
 		"panel-close": {
-			"fontCharacter": "close"
+			"fontCharacter": "\\EA17"
 		},
 		"trash": {
-			"fontCharacter": "delete"
+			"fontCharacter": "\\EA28"
 		},
 		"lock": {
-			"fontCharacter": "lock"
+			"fontCharacter": "\\EA29"
 		},
 		"unlock": {
-			"fontCharacter": "lock_open"
+			"fontCharacter": "\\EA2A"
 		},
 		"find-expanded": {
-			"fontCharacter": "expand_more"
+			"fontCharacter": "\\EA27"
 		},
 		"find-collapsed": {
-			"fontCharacter": "chevron_right"
+			"fontCharacter": "\\EA2B"
 		},
 		"case-sensitive": {
-			"fontCharacter": "text_fields"
+			"fontCharacter": "\\EA2C"
 		},
 		"whole-word": {
-			"fontCharacter": "text_rotation_none"
+			"fontCharacter": "\\EA2D"
 		},
 		"regex": {
-			"fontCharacter": "attach_money"
+			"fontCharacter": "\\EA2E"
 		},
 		"preserve-case": {
-			"fontCharacter": "format_shapes"
+			"fontCharacter": "\\EA2F"
 		},
 		"find-close": {
-			"fontCharacter": "close"
+			"fontCharacter": "\\EA17"
 		},
 		"find-next-match": {
-			"fontCharacter": "arrow_forward"
+			"fontCharacter": "\\EA2B"
 		},
 		"find-previous-match": {
-			"fontCharacter": "arrow_back"
+			"fontCharacter": "\\EA30"
 		},
 		"find-selection": {
-			"fontCharacter": "menu_open"
+			"fontCharacter": "\\EA31"
 		},
 		"find-replace": {
-			"fontCharacter": "done"
+			"fontCharacter": "\\EA32"
 		},
 		"find-replace-all": {
-			"fontCharacter": "done_all"
+			"fontCharacter": "\\EA33"
 		},
 		"gear": {
-			"fontCharacter": "settings"
+			"fontCharacter": "\\EA08"
 		},
 		"debug-console": {
-			"fontCharacter": "code"
+			"fontCharacter": "\\EA34"
 		},
 		"exclude": {
-			"fontCharacter": "explore_off"
+			"fontCharacter": "\\EA35"
 		},
 		"search-show-context": {
-			"fontCharacter": "notes"
+			"fontCharacter": "\\EA36"
 		},
 		"search-details": {
-			"fontCharacter": "more_horiz"
+			"fontCharacter": "\\EA1A"
 		},
 		"star-full": {
-			"fontCharacter": "star",
-			"fontId": "material-icons-round"
+			"fontCharacter": "\\EA37",
 		},
 		"star-empty": {
-			"fontCharacter": "star_border",
-			"fontId": "material-icons-round"
+			"fontCharacter": "\\EA39",
 		},
 		"star-half": {
-			"fontCharacter": "star_half",
-			"fontId": "material-icons-round"
+			"fontCharacter": "\\EA38",
 		},
 		"cloud-download": {
-			"fontCharacter": "cloud_download",
-			"fontId": "material-icons-outlined"
+			"fontCharacter": "\\EA3A",
 		},
 		"cloud-upload": {
-			"fontCharacter": "cloud_upload",
-			"fontId": "material-icons-outlined"
+			"fontCharacter": "\\EA3B",
 		},
 		"terminal": {
-			"fontCharacter": "web_asset"
+			"fontCharacter": "\\EA3C"
 		},
 		"dialog-warning": {
-			"fontCharacter": "warning"
+			"fontCharacter": "\\EA1D"
 		},
 		"output": {
-			"fontCharacter": "dvr"
+			"fontCharacter": "\\EA3D"
 		},
-		"symbol-property": {
-			"fontCharacter": "list_alt"
+		"pulse": {
+			"fontCharacter": "\\EA3E"
+		},
+		"dashboard": {
+			"fontCharacter": "\\EA3F"
+		},
+		"plug": {
+			"fontCharacter": "\\EA40"
+		},
+		"ellipsis": {
+			"fontCharacter": "\\EA1A"
+		},
+		"question": {
+			"fontCharacter": "\\EA41"
 		}
 	}
 }

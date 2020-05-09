@@ -14,5 +14,11 @@
 				"path": "./theme/material.product-icon-theme.json"
 			}
 		]
+	},
+	"devDependencies": {
+		"webfont": "^9.0.0"
+	},
+	"scripts": {
+		"start": "nodemon ./src/index.ts"
 	}
 }
