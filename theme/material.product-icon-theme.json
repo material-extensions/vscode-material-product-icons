@@ -133,22 +133,18 @@
 		"clear-all": {
 			"fontCharacter": "\\EA24"
 		},
-		// // "chrome-minimize": {
-		// // 	"fontCharacter": "minimize",
-		// // 	"fontId": "material-icons-round"
-		// // },
-		// // "chrome-close": {
-		// // 	"fontCharacter": "close",
-		// // 	"fontId": "material-icons-round"
-		// // },
-		// // "chrome-restore": {
-		// // 	"fontCharacter": "fullscreen_exit",
-		// // 	"fontId": "material-icons-round"
-		// // },
-		// // "chrome-maximize": {
-		// // 	"fontCharacter": "fullscreen",
-		// // 	"fontId": "material-icons-round"
-		// // },
+		"chrome-minimize": {
+			"fontCharacter": "\\EA43"
+		},
+		"chrome-close": {
+			"fontCharacter": "\\EA44"
+		},
+		"chrome-restore": {
+			"fontCharacter": "\\EA45"
+		},
+		"chrome-maximize": {
+			"fontCharacter": "\\EA42"
+		},
 		"filter": {
 			"fontCharacter": "\\EA25"
 		},
@@ -222,19 +218,19 @@
 			"fontCharacter": "\\EA1A"
 		},
 		"star-full": {
-			"fontCharacter": "\\EA37",
+			"fontCharacter": "\\EA37"
 		},
 		"star-empty": {
-			"fontCharacter": "\\EA39",
+			"fontCharacter": "\\EA39"
 		},
 		"star-half": {
-			"fontCharacter": "\\EA38",
+			"fontCharacter": "\\EA38"
 		},
 		"cloud-download": {
-			"fontCharacter": "\\EA3A",
+			"fontCharacter": "\\EA3A"
 		},
 		"cloud-upload": {
-			"fontCharacter": "\\EA3B",
+			"fontCharacter": "\\EA3B"
 		},
 		"terminal": {
 			"fontCharacter": "\\EA3C"
@@ -259,6 +255,171 @@
 		},
 		"question": {
 			"fontCharacter": "\\EA41"
+		},
+		"search-replace": {
+			"fontCharacter": "\\EA32"
+		},
+		"search-replace-all": {
+			"fontCharacter": "\\EA33"
+		},
+		"chevron-up": {
+			"fontCharacter": "\\EA26"
+		},
+		"chevron-down": {
+			"fontCharacter": "\\EA27"
+		},
+		"chevron-right": {
+			"fontCharacter": "\\EA2B"
+		},
+		"chevron-left": {
+			"fontCharacter": "\\EA30"
+		},
+		"breadcrumb-separator": {
+			"fontCharacter": "\\EA2B"
+		},
+		"symbol-string": {
+			"fontCharacter": "\\EA46"
+		},
+		"symbol-module": {
+			"fontCharacter": "\\EA47"
+		},
+		"symbol-namespace": {
+			"fontCharacter": "\\EA47"
+		},
+		"symbol-package": {
+			"fontCharacter": "\\EA47"
+		},
+		"symbol-object": {
+			"fontCharacter": "\\EA47"
+		},
+		"symbol-array": {
+			"fontCharacter": "\\EA48"
+		},
+		"json": {
+			"fontCharacter": "\\EA47"
+		},
+		"array": {
+			"fontCharacter": "\\EA48"
+		},
+		"symbol-boolean": {
+			"fontCharacter": "\\EA49"
+		},
+		"symbol-color": {
+			"fontCharacter": "\\EA4B"
+		},
+		"symbol-class": {
+			"fontCharacter": "\\EA4A"
+		},
+		"symbol-constant": {
+			"fontCharacter": "\\EA4C"
+		},
+		"symbol-constructor": {
+			"fontCharacter": "\\EA4D"
+		},
+		"symbol-event": {
+			"fontCharacter": "\\EA4E"
+		},
+		"symbol-file": {
+			"fontCharacter": "\\EA4F"
+		},
+		"symbol-folder": {
+			"fontCharacter": "\\EA50"
+		},
+		"symbol-function": {
+			"fontCharacter": "\\EA51"
+		},
+		"symbol-method": {
+			"fontCharacter": "\\EA51"
+		},
+		"symbol-number": {
+			"fontCharacter": "\\EA52"
+		},
+		"symbol-numeric": {
+			"fontCharacter": "\\EA52"
+		},
+		"symbol-property": {
+			"fontCharacter": "\\EA53"
+		},
+		"symbol-enum": {
+			"fontCharacter": "\\EA54"
+		},
+		"symbol-enum-member": {
+			"fontCharacter": "\\EA55"
+		},
+		"symbol-field": {
+			"fontCharacter": "\\EA56"
+		},
+		"symbol-key": {
+			"fontCharacter": "\\EA46"
+		},
+		"symbol-text": {
+			"fontCharacter": "\\EA46"
+		},
+		"symbol-value": {
+			"fontCharacter": "\\EA57"
+		},
+		"symbol-null": {
+			"fontCharacter": "\\EA58"
+		},
+		"symbol-ruler": {
+			"fontCharacter": "\\EA59"
+		},
+		"symbol-unit": {
+			"fontCharacter": "\\EA59"
+		},
+		"symbol-interface": {
+			"fontCharacter": "\\EA5A"
+		},
+		"symbol-operator": {
+			"fontCharacter": "\\EA5B"
+		},
+		"symbol-snippet": {
+			"fontCharacter": "\\EA5C"
+		},
+		"symbol-variable": {
+			"fontCharacter": "\\EA5D"
+		},
+		"symbol-struct": {
+			"fontCharacter": "\\EA5E"
+		},
+		"symbol-structure": {
+			"fontCharacter": "\\EA5E"
+		},
+		"symbol-parameter": {
+			"fontCharacter": "\\EA60"
+		},
+		"symbol-type-parameter": {
+			"fontCharacter": "\\EA60"
+		},
+		"symbol-misc": {
+			"fontCharacter": "\\EA5F"
+		},
+		"symbol-reference": {
+			"fontCharacter": "\\EA61"
+		},
+		"symbol-keyword": {
+			"fontCharacter": "\\EA62"
+		},
+		"smiley": {
+			"fontCharacter": "\\EA63"
+		},
+		"device-camera": {
+			"fontCharacter": "\\EA64"
+		},
+		"device-desktop": {
+			"fontCharacter": "\\EA65"
+		},
+		"device-camera-video": {
+			"fontCharacter": "\\EA66"
+		},
+		"device-mobile": {
+			"fontCharacter": "\\EA67"
+		},
+		"bug": {
+			"fontCharacter": "\\EA68"
+		},
+		"calendar": {
+			"fontCharacter": "\\EA69"
 		}
 	}
 }
