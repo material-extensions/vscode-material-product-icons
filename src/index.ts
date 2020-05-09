@@ -14,6 +14,7 @@ webfont({
     await save(result.woff as Uint8Array);
     return result;
 }).catch(error => {
+    console.error(error);
     throw error;
 });
 
