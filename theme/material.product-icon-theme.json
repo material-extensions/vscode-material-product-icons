@@ -420,6 +420,18 @@
 		},
 		"calendar": {
 			"fontCharacter": "\\EA69"
+		},
+		"remote-explorer-documentation": {
+			"fontCharacter": "\\EA6A"
+		},
+		"remote-explorer-get-started": {
+			"fontCharacter": "\\EA6B"
+		},
+		"remote-explorer-review-issues": {
+			"fontCharacter": "\\EA6D"
+		},
+		"remote-explorer-report-issues": {
+			"fontCharacter": "\\EA6C"
 		}
 	}
 }
