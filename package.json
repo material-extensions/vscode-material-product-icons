@@ -1,5 +1,5 @@
 {
-	"name": "material-product-icon-theme",
+	"name": "material-product-icons",
 	"version": "0.1.0",
 	"publisher": "PKief",
 	"engines": {
@@ -9,7 +9,7 @@
 	"contributes": {
 		"productIconThemes": [
 			{
-				"id": "material-product-icon-theme",
+				"id": "material-product-icons",
 				"label": "Material Product Icons",
 				"path": "./theme/material.product-icon-theme.json"
 			}
