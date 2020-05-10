@@ -432,6 +432,18 @@
 		},
 		"remote-explorer-report-issues": {
 			"fontCharacter": "\\EA6C"
+		},
+		"light-bulb": {
+			"fontCharacter": "\\EA6F"
+		},
+		"lightbulb-autofix": {
+			"fontCharacter": "\\EA70"
+		},
+		"lightbulb": {
+			"fontCharacter": "\\EA6F"
+		},
+		"gripper": {
+			"fontCharacter": "\\EA6E"
 		}
 	}
 }
