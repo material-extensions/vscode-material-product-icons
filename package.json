@@ -1,11 +1,40 @@
 {
 	"name": "material-product-icons",
+	"displayName": "Material Product Icons",
+	"description": "Product Icon Theme with Material Icons for VS Code",
 	"version": "0.1.0",
+	"enableProposedApi": true,
 	"publisher": "PKief",
 	"engines": {
-		"vscode": "^1.45.0-insider"
+		"vscode": "^1.46.0-insider"
 	},
-	"enableProposedApi": true,
+	"homepage": "https://github.com/PKief/vscode-material-product-icons/blob/master/README.md",
+	"repository": {
+		"url": "https://github.com/PKief/vscode-material-product-icons.git",
+		"type": "git"
+	},
+	"bugs": {
+		"url": "https://github.com/PKief/vscode-material-product-icons/issues"
+	},
+	"icon": "logo.png",
+	"galleryBanner": {
+		"color": "#1e1e1e",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"icons",
+		"theme",
+		"material",
+		"icon-theme",
+		"product-icon-theme",
+		"customization"
+	],
+	"extensionKind": [
+		"ui"
+	],
 	"contributes": {
 		"productIconThemes": [
 			{
@@ -19,6 +48,7 @@
 		"webfont": "^9.0.0"
 	},
 	"scripts": {
-		"start": "nodemon ./src/index.ts"
+		"start": "nodemon ./src/index.ts",
+		"build": "ts-node ./src/index.ts"
 	}
 }
