@@ -106,6 +106,9 @@
 		"warning": {
 			"fontCharacter": "\\EA1D"
 		},
+		"info": {
+			"fontCharacter": "\\EA88"
+		},
 		"sync": {
 			"fontCharacter": "\\EA0B"
 		},
@@ -564,6 +567,30 @@
 		},
 		"archive": {
 			"fontCharacter": "\\EA81"
-		}
+		},
+		"debug-continue": {
+			"fontCharacter": "\\EA1F"
+		},
+		"pin": {
+			"fontCharacter": "\\EA82"
+		},
+		"pinned": {
+			"fontCharacter": "\\EA83"
+		},
+		"open-preview": {
+			"fontCharacter": "\\EA84"
+		},
+		"preview": {
+			"fontCharacter": "\\EA84"
+		},
+		"tree-filter-on-type-off": {
+			"fontCharacter": "\\EA85"
+		},
+		"tree-filter-on-type-on": {
+			"fontCharacter": "\\EA86"
+		},
+		"git-commit": {
+			"fontCharacter": "\\EA87"
+		},
 	}
 }
