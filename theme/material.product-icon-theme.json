@@ -444,6 +444,126 @@
 		},
 		"gripper": {
 			"fontCharacter": "\\EA6E"
+		},
+		"search-new-editor": {
+			"fontCharacter": "\\EA71"
+		},
+		"alert": {
+			"fontCharacter": "\\EA1D"
+		},
+		"dialog-error": {
+			"fontCharacter": "\\EA1C"
+		},
+		"zoom-in": {
+			"fontCharacter": "\\EA72"
+		},
+		"zoom-out": {
+			"fontCharacter": "\\EA73"
+		},
+		"zap": {
+			"fontCharacter": "\\EA4E"
+		},
+		"x": {
+			"fontCharacter": "\\EA17"
+		},
+		"word-wrap": {
+			"fontCharacter": "\\EA74"
+		},
+		"whitespace": {
+			"fontCharacter": "\\EA75"
+		},
+		"variable": {
+			"fontCharacter": "\\EA5D"
+		},
+		"loading": {
+			"fontCharacter": "\\EA76"
+		},
+		"tree-item-loading": {
+			"fontCharacter": "\\EA76"
+		},
+		"clock": {
+			"fontCharacter": "\\EA77"
+		},
+		"history": {
+			"fontCharacter": "\\EA78"
+		},
+		"expand-all": {
+			"fontCharacter": "\\EA79"
+		},
+		"search-expand-results": {
+			"fontCharacter": "\\EA79"
+		},
+		"beaker": {
+			"fontCharacter": "\\EA7A"
+		},
+		"star": {
+			"fontCharacter": "\\EA37"
+		},
+		"star-add": {
+			"fontCharacter": "\\EA37"
+		},
+		"star-delete": {
+			"fontCharacter": "\\EA37"
+		},
+		"bold": {
+			"fontCharacter": "\\EA7B"
+		},
+		"bookmark": {
+			"fontCharacter": "\\EA7C"
+		},
+		"broadcast": {
+			"fontCharacter": "\\EA7D"
+		},
+		"clone": {
+			"fontCharacter": "\\EA3A"
+		},
+		"trashcan": {
+			"fontCharacter": "\\EA28"
+		},
+		"three-bars": {
+			"fontCharacter": "\\EA7E"
+		},
+		"tree-filter-clear": {
+			"fontCharacter": "\\EA17"
+		},
+		"search-clear-results": {
+			"fontCharacter": "\\EA24"
+		},
+		"search-collapse-results": {
+			"fontCharacter": "\\EA0C"
+		},
+		"search-goto-file": {
+			"fontCharacter": "\\EA12"
+		},
+		"search-refresh": {
+			"fontCharacter": "\\EA0B"
+		},
+		"search-remove": {
+			"fontCharacter": "\\EA17"
+		},
+		"dialog-close": {
+			"fontCharacter": "\\EA17"
+		},
+		"diff-review-close": {
+			"fontCharacter": "\\EA17"
+		},
+		"remove-close": {
+			"fontCharacter": "\\EA17"
+		},
+		"close-all": {
+			"fontCharacter": "\\EA7F"
+		},
+		"debug": {
+			"fontCharacter": "\\EA68"
+		},
+		"database": {
+			"fontCharacter": "\\EA80"
+		},
+		"console": {
+			"fontCharacter": "\\EA3C"
+		},
+		"archive": {
+			"fontCharacter": "\\EA81"
 		}
 	}
 }
