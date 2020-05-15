@@ -45,10 +45,16 @@
 		]
 	},
 	"devDependencies": {
+		"@types/puppeteer": "^2.1.0",
+		"nodemon": "^2.0.3",
+		"puppeteer": "^3.0.4",
+		"ts-node": "^8.10.1",
+		"typescript": "^3.9.2",
 		"webfont": "^9.0.0"
 	},
 	"scripts": {
 		"start": "nodemon ./src/index.ts",
-		"build": "ts-node ./src/index.ts"
+		"build": "ts-node ./src/index.ts",
+		"preview": "ts-node ./src/scripts/preview/index.ts"
 	}
 }
