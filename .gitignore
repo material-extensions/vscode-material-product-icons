@@ -1,2 +1,4 @@
 node_modules
 *.vsix
+
+src/scripts/preview/*.html
