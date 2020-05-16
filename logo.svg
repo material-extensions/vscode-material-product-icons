@@ -1,68 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="300mm"
-   height="300mm"
-   viewBox="0 0 300 300"
-   version="1.1"
-   id="svg8"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\Users\phili\Documents\Projekte\JavaScript\VS Code Extensions\vscode-material-product-icon-theme\logo.png"
-   inkscape:export-xdpi="33.869999"
-   inkscape:export-ydpi="33.869999"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="400"
-     inkscape:cy="560"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <circle
-       r="115.66071"
-       cy="150"
-       cx="150"
-       id="path831"
-       style="fill:#ffffff;stroke-width:0.302419;stroke-linecap:square;paint-order:fill markers stroke;fill-opacity:1" />
-    <path
-       style="stroke-width:13.3678;fill:#424242;fill-opacity:1"
-       id="path833"
-       d="m 150,135.29547 c -8.15433,0 -14.70453,6.5502 -14.70453,14.70453 0,8.15433 6.5502,14.70453 14.70453,14.70453 8.15433,0 14.70453,-6.5502 14.70453,-14.70453 0,-8.15433 -6.5502,-14.70453 -14.70453,-14.70453 z M 150,16.32242 C 76.20997,16.32242 16.32242,76.20998 16.32242,150 16.32242,223.79002 76.20997,283.67758 150,283.67758 223.79002,283.67758 283.67758,223.79002 283.67758,150 283.67758,76.20998 223.79002,16.32242 150,16.32242 Z M 179.27539,179.27539 69.79345,230.20655 120.72461,120.72461 230.20655,69.79345 Z" />
-  </g>
+<svg width="100mm" height="100mm" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient981" x1="231.34" x2="407.98" y1="90.645" y2="267.28" gradientTransform="matrix(.26458 0 0 .26458 .000447 -.011738)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#212121" stop-opacity=".47059" offset="0"/>
+   <stop stop-color="#424242" stop-opacity=".11471" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="50" cy="50" r="50" fill="#424242"/>
+ <g transform="translate(0,-197)" fill="#42a5f5">
+  <circle cx="50" cy="247" r="0"/>
+  <circle cx="50" cy="247" r="0"/>
+  <circle cx="50" cy="247" r="0"/>
+  <circle cx="50" cy="247" r="0"/>
+  <circle cx="50" cy="247" r="0"/>
+ </g>
+ <path d="m74.464 25.523-21.289 21.29a4.4904 4.4904 0 0 1 1.3152 3.175 4.4904 4.4904 0 0 1-4.4902 4.4902 4.4904 4.4904 0 0 1-3.175-1.3152l-21.29 21.289 25.525 25.525a50 50 0 0 0 48.929-48.929zm-24.464 19.992a4.4729 4.4729 0 0 0-4.4731 4.4731 4.4729 4.4729 0 0 0 4.4731 4.4726 4.4729 4.4729 0 0 0 4.4726-4.4726 4.4729 4.4729 0 0 0-4.4726-4.4731z" fill="url(#linearGradient981)" stroke-linecap="square" stroke-width=".33546" style="paint-order:fill markers stroke"/>
+ <path d="m74.464 25.536-33.394 15.535-15.535 33.394 33.394-15.535zm-24.464 19.979c2.4872 0 4.4851 1.9979 4.4851 4.4851 0 2.4872-1.9979 4.4851-4.4851 4.4851-2.4872 0-4.4851-1.9979-4.4851-4.4851 0-2.4872 1.9979-4.4851 4.4851-4.4851z" fill="#fafafa" stroke-width="4.0774"/>
 </svg>
