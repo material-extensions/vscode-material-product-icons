@@ -592,6 +592,194 @@
 		"git-commit": {
 			"fontCharacter": "\\EA87"
 		},
-		
+		"pencil": {
+			"fontCharacter": "\\EA89"
+		},
+		"preferences-edit": {
+			"fontCharacter": "\\EA89"
+		},
+		"edit": {
+			"fontCharacter": "\\EA89"
+		},
+		"dialog-info": {
+			"fontCharacter": "\\EA88"
+		},
+		"stop": {
+			"fontCharacter": "\\EA1C"
+		},
+		"arrow-down": {
+			"fontCharacter": "\\EA8A"
+		},
+		"arrow-left": {
+			"fontCharacter": "\\EA8B"
+		},
+		"arrow-right": {
+			"fontCharacter": "\\EA8C"
+		},
+		"arrow-up": {
+			"fontCharacter": "\\EA8D"
+		},
+		"arrow-small-down": {
+			"fontCharacter": "\\EA8E"
+		},
+		"arrow-small-left": {
+			"fontCharacter": "\\EA8F"
+		},
+		"arrow-small-up": {
+			"fontCharacter": "\\EA90"
+		},
+		"arrow-small-right": {
+			"fontCharacter": "\\EA91"
+		},
+		"arrow-both": {
+			"fontCharacter": "\\EA92"
+		},
+		"book": {
+			"fontCharacter": "\\EA93"
+		},
+		"browser": {
+			"fontCharacter": "\\EA94"
+		},
+		"notifications-clear-all": {
+			"fontCharacter": "\\EA24"
+		},
+		"notifications-clear": {
+			"fontCharacter": "\\EA17"
+		},
+		"eye": {
+			"fontCharacter": "\\EA85"
+		},
+		"eye-closed": {
+			"fontCharacter": "\\EA86"
+		},
+		"eye-watch": {
+			"fontCharacter": "\\EA85"
+		},
+		"eye-unwatch": {
+			"fontCharacter": "\\EA86"
+		},
+		"briefcase": {
+			"fontCharacter": "\\EA95"
+		},
+		"checklist": {
+			"fontCharacter": "\\EA96"
+		},
+		"circle-slash": {
+			"fontCharacter": "\\EA97"
+		},
+		"search-stop": {
+			"fontCharacter": "\\EA97"
+		},
+		"code": {
+			"fontCharacter": "\\EA98"
+		},
+		"window": {
+			"fontCharacter": "\\EA94"
+		},
+		"multiple-windows": {
+			"fontCharacter": "\\EA45"
+		},
+		"empty-window": {
+			"fontCharacter": "\\EA0A"
+		},
+		"editor-layout": {
+			"fontCharacter": "\\e030"
+		},
+		"library": {
+			"fontCharacter": "\\EA9A"
+		},
+		"logo-github": {
+			"fontCharacter": "\\EA9B"
+		},
+		"twitter": {
+			"fontCharacter": "\\EA9C"
+		},
+		"call-incoming": {
+			"fontCharacter": "\\EA9D"
+		},
+		"call-outgoing": {
+			"fontCharacter": "\\EA9E"
+		},
+		"clippy": {
+			"fontCharacter": "\\EA9F"
+		},
+		"comment": {
+			"fontCharacter": "\\EAA0"
+		},
+		"comment-add": {
+			"fontCharacter": "\\EAA1"
+		},
+		"comment-discussion": {
+			"fontCharacter": "\\EAA2"
+		},
+		"gift": {
+			"fontCharacter": "\\EAA3"
+		},
+		"file-directory": {
+			"fontCharacter": "\\EA50"
+		},
+		"file-directory-create": {
+			"fontCharacter": "\\EA0A"
+		},
+		"file-add": {
+			"fontCharacter": "\\EA09"
+		},
+		"file": {
+			"fontCharacter": "\\EA4F"
+		},
+		"list-filter": {
+			"fontCharacter": "\\EAA4"
+		},
+		"list-ordered": {
+			"fontCharacter": "\\EAA5"
+		},
+		"list-unordered": {
+			"fontCharacter": "\\EA11"
+		},
+		"list-selection": {
+			"fontCharacter": "\\EAA6"
+		},
+		"wrench": {
+			"fontCharacter": "\\EA53"
+		},
+		"wrench-subaction": {
+			"fontCharacter": "\\EA53"
+		},
+		"watch": {
+			"fontCharacter": "\\EAA7"
+		},
+		"dash": {
+			"fontCharacter": "\\EAA8"
+		},
+		"credit-card": {
+			"fontCharacter": "\\EAA9"
+		},
+		"versions": {
+			"fontCharacter": "\\EAAA"
+		},
+		"mute": {
+			"fontCharacter": "\\EAAB"
+		},
+		"unmute": {
+			"fontCharacter": "\\EAAC"
+		},
+		"keyboard": {
+			"fontCharacter": "\\EAAD"
+		},
+		"record-keys": {
+			"fontCharacter": "\\EAAD"
+		},
+		"key": {
+			"fontCharacter": "\\EA62"
+		},
+		"screen-full": {
+			"fontCharacter": "\\EAAE"
+		},
+		"screen-normal": {
+			"fontCharacter": "\\EAAF"
+		},
+		"tools": {
+			"fontCharacter": "\\EAB0"
+		}
 	}
 }
