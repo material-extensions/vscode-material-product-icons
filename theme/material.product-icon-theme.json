@@ -91,6 +91,9 @@
 		"split-horizontal": {
 			"fontCharacter": "\\EA19"
 		},
+		"split-vertical": {
+			"fontCharacter": "\\EABB"
+		},
 		"toolbar-more": {
 			"fontCharacter": "\\EA1A"
 		},
@@ -691,6 +694,9 @@
 		"logo-github": {
 			"fontCharacter": "\\EA9B"
 		},
+		"github": {
+			"fontCharacter": "\\EA9B"
+		},
 		"twitter": {
 			"fontCharacter": "\\EA9C"
 		},
@@ -780,6 +786,108 @@
 		},
 		"tools": {
 			"fontCharacter": "\\EAB0"
-		}
+		},
+		"flame": {
+			"fontCharacter": "\\EAB1"
+		},
+		"save": {
+			"fontCharacter": "\\EAB2"
+		},
+		"save-all": {
+			"fontCharacter": "\\EAB3"
+		},
+		"save-as": {
+			"fontCharacter": "\\EAB4"
+		},
+		"search-save": {
+			"fontCharacter": "\\EAB5"
+		},
+		"sign-in": {
+			"fontCharacter": "\\EAB6"
+		},
+		"sign-out": {
+			"fontCharacter": "\\EAB7"
+		},
+		"log-in": {
+			"fontCharacter": "\\EAB6"
+		},
+		"log-out": {
+			"fontCharacter": "\\EAB7"
+		},
+		"server": {
+			"fontCharacter": "\\EAB8"
+		},
+		"server-environment": {
+			"fontCharacter": "\\EAB9"
+		},
+		"server-process": {
+			"fontCharacter": "\\EABA"
+		},
+		"link": {
+			"fontCharacter": "\\EABC"
+		},
+		"link-external": {
+			"fontCharacter": "\\EABD"
+		},
+		"location": {
+			"fontCharacter": "\\EABE"
+		},
+		"law": {
+			"fontCharacter": "\\EABF"
+		},
+		"settings": {
+			"fontCharacter": "\\EA60"
+		},
+		"notifications-configure": {
+			"fontCharacter": "\\EA08"
+		},
+		"color-mode": {
+			"fontCharacter": "\\EAC0"
+		},
+		"notifications-expand": {
+			"fontCharacter": "\\EA26"
+		},
+		"notifications-collapse": {
+			"fontCharacter": "\\EA27"
+		},
+		"live-share": {
+			"fontCharacter": "\\EAC2"
+		},
+		"thumbsup": {
+			"fontCharacter": "\\EAC3"
+		},
+		"thumbsdown": {
+			"fontCharacter": "\\EAC4"
+		},
+		"tag": {
+			"fontCharacter": "\\EAC5"
+		},
+		"tag-add": {
+			"fontCharacter": "\\EAC6"
+		},
+		"tag-remove": {
+			"fontCharacter": "\\EAC7"
+		},
+		"tasklist": {
+			"fontCharacter": "\\EAC8"
+		},
+		"telescope": {
+			"fontCharacter": "\\EAC9"
+		},
+		"radio-tower": {
+			"fontCharacter": "\\EACA"
+		},
+		"mail": {
+			"fontCharacter": "\\EACB"
+		},
+		"mail-read": {
+			"fontCharacter": "\\EACC"
+		},
+		"mail-reply": {
+			"fontCharacter": "\\EACD"
+		},
+		"rss": {
+			"fontCharacter": "\\EACE"
+		},
 	}
 }
