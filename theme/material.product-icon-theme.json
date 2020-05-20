@@ -889,5 +889,116 @@
 		"rss": {
 			"fontCharacter": "\\EACE"
 		},
+		"shield": {
+			"fontCharacter": "\\EACF"
+		},
+		"sync-ignored": {
+			"fontCharacter": "\\EAD0"
+		},
+		"ruby": {
+			"fontCharacter": "\\EAD1"
+		},
+		"rocket": {
+			"fontCharacter": "\\EA04"
+		},
+		"selection": {
+			"fontCharacter": "\\EA31"
+		},
+		"repo-sync": {
+			"fontCharacter": "\\EA0B"
+		},
+		"reply": {
+			"fontCharacter": "\\EACD"
+		},
+		"quote": {
+			"fontCharacter": "\\EAD2"
+		},
+		"project": {
+			"fontCharacter": "\\EAD3"
+		},
+		"plus": {
+			"fontCharacter": "\\EA0D"
+		},
+		"remove": {
+			"fontCharacter": "\\EAA8"
+		},
+		"person": {
+			"fontCharacter": "\\EAD4"
+		},
+		"person-add": {
+			"fontCharacter": "\\EAD5"
+		},
+		"person-follow": {
+			"fontCharacter": "\\EAD6"
+		},
+		"person-filled": {
+			"fontCharacter": "\\EA06"
+		},
+		"person-outline": {
+			"fontCharacter": "\\EAD7"
+		},
+		"paintcan": {
+			"fontCharacter": "\\EAD8"
+		},
+		"package": {
+			"fontCharacter": "\\EAD9"
+		},
+		"organization": {
+			"fontCharacter": "\\EADA"
+		},
+		"organization-filled": {
+			"fontCharacter": "\\EADA"
+		},
+		"organization-outline": {
+			"fontCharacter": "\\EADB"
+		},
+		"reactions": {
+			"fontCharacter": "\\EA14"
+		},
+		"mortar-board": {
+			"fontCharacter": "\\EADC"
+		},
+		"more": {
+			"fontCharacter": "\\EA1A"
+		},
+		"menubar-more": {
+			"fontCharacter": "\\EA1A"
+		},
+		"gist-private": {
+			"fontCharacter": "\\EA29"
+		},
+		"git-fork-private": {
+			"fontCharacter": "\\EA29"
+		},
+		"mirror-private": {
+			"fontCharacter": "\\EA29"
+		},
+		"microscope": {
+			"fontCharacter": "\\EADD"
+		},
+		"milestone": {
+			"fontCharacter": "\\EADE"
+		},
+		"megaphone": {
+			"fontCharacter": "\\EADF"
+		},
+		"jersey": {
+			"fontCharacter": "\\EAE0"
+		},
+		"inbox": {
+			"fontCharacter": "\\EAE1"
+		},
+		"heart": {
+			"fontCharacter": "\\EAE2"
+		},
+		"home": {
+			"fontCharacter": "\\EAE3"
+		},
+		"graph": {
+			"fontCharacter": "\\EAE4"
+		},
+		"globe": {
+			"fontCharacter": "\\EAE5"
+		}
 	}
 }
