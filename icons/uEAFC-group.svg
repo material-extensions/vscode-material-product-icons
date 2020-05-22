@@ -1,0 +1,3 @@
+<svg width="1e3" height="1e3" version="1.1" viewBox="0 0 1e3 1e3" xmlns="http://www.w3.org/2000/svg">
+ <path d="m104 104v144h36v504h-36v144h144v-36h504v36h144v-144h-36v-504h36v-144h-144v36h-504v-36m0 108h504v36h36v504h-36v36h-504v-36h-36v-504h36m36 36v288h108v144h324v-324h-144v-108m-216 72h144v144h-144m216-36h72v180h-180v-72h108" stroke-width="36"/>
+</svg>
