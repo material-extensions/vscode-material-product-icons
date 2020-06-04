@@ -22,9 +22,6 @@
     "source-control": {
       "fontCharacter": "\\EA03"
     },
-    "debug-alt-2": {
-      "fontCharacter": "\\EA04"
-    },
     "remote-explorer": {
       "fontCharacter": "\\EA05"
     },
@@ -1138,9 +1135,6 @@
     "activate-breakpoints": {
       "fontCharacter": "\\EB03"
     },
-    "debug-activate-breakpoints": {
-      "fontCharacter": "\\EB03"
-    },
     "debug-breakpoint": {
       "fontCharacter": "\\EA32"
     },
@@ -1196,7 +1190,7 @@
       "fontCharacter": "\\EB0A"
     },
     "debug-alt": {
-      "fontCharacter": "\\EA68"
+      "fontCharacter": "\\EA04"
     },
     "debug-disconnect": {
       "fontCharacter": "\\EA0B"
@@ -1356,6 +1350,51 @@
     },
     "issue-opened": {
       "fontCharacter": "\\EB21"
+    },
+    "stop-circle": {
+      "fontCharacter": "\\EB22"
+    },
+    "record": {
+      "fontCharacter": "\\EB00"
+    },
+    "play-circle": {
+      "fontCharacter": "\\EB24"
+    },
+    "pass": {
+      "fontCharacter": "\\EB23"
+    },
+    "mirror-public": {
+      "fontCharacter": "\\EAE5"
+    },
+    "mirror": {
+      "fontCharacter": "\\EB25"
+    },
+    "git-branch-create": {
+      "fontCharacter": "\\EB26"
+    },
+    "git-branch-delete": {
+      "fontCharacter": "\\EB27"
+    },
+    "git-merge": {
+      "fontCharacter": "\\EB28"
+    },
+    "git-compare": {
+      "fontCharacter": "\\EA18"
+    },
+    "git-pull-request": {
+      "fontCharacter": "\\EB29"
+    },
+    "git-pull-request-abandoned": {
+      "fontCharacter": "\\EB29"
+    },
+    "gist-fork": {
+      "fontCharacter": "\\EB2A"
+    },
+    "folder-opened": {
+      "fontCharacter": "\\EB2B"
+    },
+    "folder-active": {
+      "fontCharacter": "\\EB2C"
     }
   }
 }
