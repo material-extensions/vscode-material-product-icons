@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/master/logo.png?token=AC5OLT2LT3SFDZNYW33WNSC6ZFI4Y" alt="logo" width="200">
+    <img src="https://github.com/PKief/vscode-material-product-icons/raw/master/logo.png" alt="logo" width="200">
   <br><br>
   Material Product Icons
   <br>
@@ -10,12 +10,13 @@
 <h4 align="center">Get the Material Design icons into your VS Code.</h4>
 
 ## Overview
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/master/images/preview.png?token=AC5OLTYZKGU2KWB7PKECOZK6ZFIY2" alt="Preview">
+
+<img src="https://github.com/PKief/vscode-material-product-icons/raw/master/images/preview.png" alt="Preview">
 
 ## Icon sources
 
-* [Google Icons](https://material.io/resources/icons)
-* [Material Design Icons](https://materialdesignicons.com/)
+- [Google Icons](https://material.io/resources/icons)
+- [Material Design Icons](https://materialdesignicons.com/)
 
 **You want to contribute?**
 
