@@ -1395,6 +1395,48 @@
     },
     "folder-active": {
       "fontCharacter": "\\EB2C"
+    },
+    "fold-down": {
+      "fontCharacter": "\\EB2F"
+    },
+    "fold-up": {
+      "fontCharacter": "\\EB2E"
+    },
+    "file-text": {
+      "fontCharacter": "\\EB30"
+    },
+    "file-pdf": {
+      "fontCharacter": "\\EB31"
+    },
+    "file-code": {
+      "fontCharacter": "\\EB32"
+    },
+    "file-media": {
+      "fontCharacter": "\\EB33"
+    },
+    "file-symlink-file": {
+      "fontCharacter": "\\EB35"
+    },
+    "file-zip": {
+      "fontCharacter": "\\EB34"
+    },
+    "file-binary": {
+      "fontCharacter": "\\EB36"
+    },
+    "gist": {
+      "fontCharacter": "\\EB32"
+    },
+    "gist-secret": {
+      "fontCharacter": "\\EB37"
+    },
+    "debug-stackframe-active": {
+      "fontCharacter": "\\EB38"
+    },
+    "debug-stackframe-focused": {
+      "fontCharacter": "\\EB39"
+    },
+    "debug-stackframe-dot": {
+      "fontCharacter": "\\EB3A"
     }
   }
 }
