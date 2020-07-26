@@ -1437,6 +1437,21 @@
     },
     "debug-stackframe-dot": {
       "fontCharacter": "\\EB3A"
+    },
+    "cloud": {
+      "fontCharacter": "\\EB3B"
+    },
+    "callhierarchy-incoming": {
+      "fontCharacter": "\\EA9D"
+    },
+    "callhierarchy-outgoing": {
+      "fontCharacter": "\\EA9E"
+    },
+    "vm-connect": {
+      "fontCharacter": "\\EA05"
+    },
+    "merge": {
+      "fontCharacter": "\\EB28"
     }
   }
 }
