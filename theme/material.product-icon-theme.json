@@ -1452,6 +1452,9 @@
     },
     "merge": {
       "fontCharacter": "\\EB28"
+    },
+    "debug-alt-small": {
+      "fontCharacter": "\\EB2D"
     }
   }
 }
