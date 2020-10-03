@@ -1455,6 +1455,15 @@
     },
     "debug-alt-small": {
       "fontCharacter": "\\EB2D"
+    },
+    "magnet": {
+      "fontCharacter": "\\EB3C"
+    },
+    "export": {
+      "fontCharacter": "\\EB3D"
+    },
+    "graph-left": {
+      "fontCharacter": "\\EAE4"
     }
   }
 }
