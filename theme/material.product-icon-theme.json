@@ -1464,6 +1464,15 @@
     },
     "graph-left": {
       "fontCharacter": "\\EAE4"
+    },
+    "check-all": {
+      "fontCharacter": "\\EA33"
+    },
+    "redo": {
+      "fontCharacter": "\\EB3F"
+    },
+    "notebook": {
+      "fontCharacter": "\\EB40"
     }
   }
 }
