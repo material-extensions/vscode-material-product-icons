@@ -574,6 +574,9 @@
     "pinned": {
       "fontCharacter": "\\EA83"
     },
+    "pinned-dirty": {
+      "fontCharacter": "\\EB41"
+    },
     "open-preview": {
       "fontCharacter": "\\EA84"
     },
@@ -1473,6 +1476,6 @@
     },
     "notebook": {
       "fontCharacter": "\\EB40"
-    }
+    },
   }
 }
