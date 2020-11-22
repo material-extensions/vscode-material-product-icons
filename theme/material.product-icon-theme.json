@@ -584,10 +584,10 @@
       "fontCharacter": "\\EA84"
     },
     "tree-filter-on-type-off": {
-      "fontCharacter": "\\EA85"
+      "fontCharacter": "\\EB39"
     },
     "tree-filter-on-type-on": {
-      "fontCharacter": "\\EA86"
+      "fontCharacter": "\\EB38"
     },
     "git-commit": {
       "fontCharacter": "\\EA87"
@@ -1477,5 +1477,74 @@
     "notebook": {
       "fontCharacter": "\\EB40"
     },
+    "breakpoints-view-icon": {
+      "fontCharacter": "\\EA04"
+    },
+    "callstack-view-icon": {
+      "fontCharacter": "\\EA04"
+    },
+    "comments-view-icon": {
+      "fontCharacter": "\\EAA2"
+    },
+    "debug-console-view-icon": {
+      "fontCharacter": "\\EA34"
+    },
+    "explorer-view-icon": {
+      "fontCharacter": "\\EA01"
+    },
+    "extensions-view-icon": {
+      "fontCharacter": "\\EA07"
+    },
+    "markers-view-icon": {
+      "fontCharacter": "\\EA1D"
+    },
+    "output-view-icon": {
+      "fontCharacter": "\\EA3D"
+    },
+    "refactor-preview-view-icon": {
+      "fontCharacter": "\\EA6F"
+    },
+    "remote-explorer-view-icon": {
+      "fontCharacter": "\\EA05"
+    },
+    "search-view-icon": {
+      "fontCharacter": "\\EA02"
+    },
+    "settings-sync-view-icon": {
+      "fontCharacter": "\\EA0B"
+    },
+    "source-control-view-icon": {
+      "fontCharacter": "\\EA03"
+    },
+    "run-view-icon": {
+      "fontCharacter": "\\EB10"
+    },
+    "terminal-view-icon": {
+      "fontCharacter": "\\EA3C"
+    },
+    "timeline-view-icon": {
+      "fontCharacter": "\\EA77"
+    },
+    "watch-view-icon": {
+      "fontCharacter": "\\EA85"
+    },
+    "test-view-icon": {
+      "fontCharacter": "\\EA7A"
+    },
+    "variables-view-icon": {
+      "fontCharacter": "\\EA5D"
+    },
+    "default-view-icon": {
+      "fontCharacter": "\\EA94"
+    },
+    "outline-view-icon": {
+      "fontCharacter": "\\EA10"
+    },
+    "loaded-scripts-view-icon": {
+      "fontCharacter": "\\EA3D"
+    },
+    "octoface": {
+      "fontCharacter": "\\EB43"
+    }
   }
 }
