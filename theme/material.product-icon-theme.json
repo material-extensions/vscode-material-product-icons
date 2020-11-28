@@ -1545,6 +1545,75 @@
     },
     "octoface": {
       "fontCharacter": "\\EB43"
+    },
+    "breakpoints-activate": {
+      "fontCharacter": "\\EB03"
+    },
+    "breakpoints-remove-all": {
+      "fontCharacter": "\\EB46"
+    },
+    "watch-expressions-add-function-breakpoint": {
+      "fontCharacter": "\\EA0D"
+    },
+    "debug-collapse-all": {
+      "fontCharacter": "\\EA0C"
+    },
+    "debug-configure": {
+      "fontCharacter": "\\EA08"
+    },
+    "debug-console-clear-all": {
+      "fontCharacter": "\\EA24"
+    },
+    "debug-gripper": {
+      "fontCharacter": "\\EB15"
+    },
+    "diff-editor-toggle-whitespace": {
+      "fontCharacter": "\\EA75"
+    },
+    "widget-close": {
+      "fontCharacter": "\\EA17"
+    },
+    "watch-expressions-remove-all": {
+      "fontCharacter": "\\EA7F"
+    },
+    "watch-expressions-add": {
+      "fontCharacter": "\\EA0D"
+    },
+    "timeline-pin": {
+      "fontCharacter": "\\EA82"
+    },
+    "timeline-unpin": {
+      "fontCharacter": "\\EA83"
+    },
+    "timeline-refresh": {
+      "fontCharacter": "\\EA0B"
+    },
+    "timeline-open": {
+      "fontCharacter": "\\EA77"
+    },
+    "callstack-view-session": {
+      "fontCharacter": "\\EA68"
+    },
+    "diff-editor-next-change": {
+      "fontCharacter": "\\EA8A"
+    },
+    "diff-editor-previous-change": {
+      "fontCharacter": "\\EA8D"
+    },
+    "debug-console-evaluation-prompt": {
+      "fontCharacter": "\\EA2B"
+    },
+    "debug-console-evaluation-input": {
+      "fontCharacter": "\\EA91"
+    },
+    "circle-large-filled": {
+      "fontCharacter": "\\EB00"
+    },
+    "circle-large-outline": {
+      "fontCharacter": "\\EB01"
+    },
+    "pass-filled": {
+      "fontCharacter": "\\EB23"
     }
   }
 }
