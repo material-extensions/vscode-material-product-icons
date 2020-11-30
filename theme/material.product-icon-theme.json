@@ -1614,6 +1614,147 @@
     },
     "pass-filled": {
       "fontCharacter": "\\EB23"
+    },
+    "terminal-new": {
+      "fontCharacter": "\\EA0D"
+    },
+    "accounts-view-bar-icon": {
+      "fontCharacter": "\\EA06"
+    },
+    "drop-down-button": {
+      "fontCharacter": "\\EA27"
+    },
+    "extensions-clear-search-results": {
+      "fontCharacter": "\\EA24"
+    },
+    "preferences-clear-input": {
+      "fontCharacter": "\\EA24"
+    },
+    "extensions-configure-recommended": {
+      "fontCharacter": "\\EA89"
+    },
+    "extensions-filter": {
+      "fontCharacter": "\\EA25"
+    },
+    "extensions-info-message": {
+      "fontCharacter": "\\EA88"
+    },
+    "extensions-install-count": {
+      "fontCharacter": "\\EA3A"
+    },
+    "extensions-install-local-in-remote": {
+      "fontCharacter": "\\EAF9"
+    },
+    "extensions-install-workspace-recommended": {
+      "fontCharacter": "\\EAF9"
+    },
+    "extensions-manage": {
+      "fontCharacter": "\\EA08"
+    },
+    "extensions-refresh": {
+      "fontCharacter": "\\EA0B"
+    },
+    "extensions-rating": {
+      "fontCharacter": "\\EA37"
+    },
+    "extensions-star-empty": {
+      "fontCharacter": "\\EA39"
+    },
+    "extensions-star-full": {
+      "fontCharacter": "\\EA37"
+    },
+    "extensions-star-half": {
+      "fontCharacter": "\\EA38"
+    },
+    "extensions-remote": {
+      "fontCharacter": "\\EA05"
+    },
+    "extensions-sync-enabled": {
+      "fontCharacter": "\\EB47"
+    },
+    "extensions-sync-ignored": {
+      "fontCharacter": "\\EAD0"
+    },
+    "extensions-warning-message": {
+      "fontCharacter": "\\EA1D"
+    },
+    "goto-next-location": {
+      "fontCharacter": "\\EA8A"
+    },
+    "goto-previous-location": {
+      "fontCharacter": "\\EA8D"
+    },
+    "keybindings-add": {
+      "fontCharacter": "\\EA0D"
+    },
+    "keybindings-edit": {
+      "fontCharacter": "\\EA89"
+    },
+    "keybindings-record-keys": {
+      "fontCharacter": "\\EAAD"
+    },
+    "keybindings-sort": {
+      "fontCharacter": "\\EB1C"
+    },
+    "markers-view-filter": {
+      "fontCharacter": "\\EA25"
+    },
+    "markers-view-multi-line-collapsed": {
+      "fontCharacter": "\\EA27"
+    },
+    "markers-view-multi-line-expanded": {
+      "fontCharacter": "\\EA26"
+    },
+    "review-comment-collapse": {
+      "fontCharacter": "\\EA26"
+    },
+    "settings-add": {
+      "fontCharacter": "\\EA0D"
+    },
+    "settings-discard": {
+      "fontCharacter": "\\EB3E"
+    },
+    "settings-edit": {
+      "fontCharacter": "\\EA89"
+    },
+    "settings-folder-dropdown": {
+      "fontCharacter": "\\EAEE"
+    },
+    "settings-group-collapsed": {
+      "fontCharacter": "\\EA2B"
+    },
+    "settings-group-expanded": {
+      "fontCharacter": "\\EA27"
+    },
+    "settings-more-action": {
+      "fontCharacter": "\\EA08"
+    },
+    "settings-remove": {
+      "fontCharacter": "\\EA17"
+    },
+    "tasks-remove": {
+      "fontCharacter": "\\EA17"
+    },
+    "settings-view-bar-icon": {
+      "fontCharacter": "\\EA08"
+    },
+    "tasks-list-configure": {
+      "fontCharacter": "\\EA08"
+    },
+    "terminal-kill": {
+      "fontCharacter": "\\EA28"
+    },
+    "terminal-rename": {
+      "fontCharacter": "\\EA89"
+    },
+    "view-pane-container-collapsed": {
+      "fontCharacter": "\\EA2B"
+    },
+    "view-pane-container-expanded": {
+      "fontCharacter": "\\EA27"
+    },
+    "preferences-open-settings": {
+      "fontCharacter": "\\EA08"
     }
   }
 }
