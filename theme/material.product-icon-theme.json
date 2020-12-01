@@ -1755,6 +1755,63 @@
     },
     "preferences-open-settings": {
       "fontCharacter": "\\EA08"
+    },
+    "notebook-clear": {
+      "fontCharacter": "\\EA24"
+    },
+    "notebook-collapsed": {
+      "fontCharacter": "\\EA2B"
+    },
+    "notebook-delete-cell": {
+      "fontCharacter": "\\EA28"
+    },
+    "notebook-edit": {
+      "fontCharacter": "\\EA89"
+    },
+    "notebook-execute": {
+      "fontCharacter": "\\EA1F"
+    },
+    "notebook-execute-all": {
+      "fontCharacter": "\\EAF2"
+    },
+    "notebook-expanded": {
+      "fontCharacter": "\\EA27"
+    },
+    "notebook-kernel-configure": {
+      "fontCharacter": "\\EA08"
+    },
+    "notebook-mimetype": {
+      "fontCharacter": "\\EA98"
+    },
+    "notebook-move-down": {
+      "fontCharacter": "\\EA8A"
+    },
+    "notebook-move-up": {
+      "fontCharacter": "\\EA8D"
+    },
+    "notebook-open-as-text": {
+      "fontCharacter": "\\EB32"
+    },
+    "notebook-revert": {
+      "fontCharacter": "\\EB44"
+    },
+    "notebook-split-cell": {
+      "fontCharacter": "\\EABB"
+    },
+    "notebook-state-error": {
+      "fontCharacter": "\\EA1C"
+    },
+    "notebook-state-success": {
+      "fontCharacter": "\\EA0F"
+    },
+    "notebook-stop": {
+      "fontCharacter": "\\EA23"
+    },
+    "notebook-stop-edit": {
+      "fontCharacter": "\\EA0F"
+    },
+    "notebook-unfold": {
+      "fontCharacter": "\\EAFD"
     }
   }
 }
