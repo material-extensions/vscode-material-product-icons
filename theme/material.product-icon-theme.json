@@ -1812,6 +1812,9 @@
     },
     "notebook-unfold": {
       "fontCharacter": "\\EAFD"
+    },
+    "notebook-kernel-select": {
+      "fontCharacter": "\\EB32"
     }
   }
 }
