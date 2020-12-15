@@ -1815,6 +1815,18 @@
     },
     "notebook-kernel-select": {
       "fontCharacter": "\\EB32"
+    },
+    "testing-view-icon": {
+      "fontCharacter": "\\EA7A"
+    },
+    "testing-show-as-list-icon": {
+      "fontCharacter": "\\EA11"
+    },
+    "testing-debug-icon": {
+      "fontCharacter": "\\EA68"
+    },
+    "testing-run-icon": {
+      "fontCharacter": "\\EA1F"
     }
   }
 }
