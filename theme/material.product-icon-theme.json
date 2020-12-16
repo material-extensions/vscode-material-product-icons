@@ -1827,6 +1827,18 @@
     },
     "testing-run-icon": {
       "fontCharacter": "\\EA1F"
+    },
+    "ports-forward-icon": {
+      "fontCharacter": "\\EA0D"
+    },
+    "ports-view-icon": {
+      "fontCharacter": "\\EA40"
+    },
+    "ports-open-browser-icon": {
+      "fontCharacter": "\\EAE5"
+    },
+    "ports-stop-forward-icon": {
+      "fontCharacter": "\\EA17"
     }
   }
 }
