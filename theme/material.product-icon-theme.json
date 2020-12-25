@@ -1839,6 +1839,30 @@
     },
     "ports-stop-forward-icon": {
       "fontCharacter": "\\EA17"
+    },
+    "testing-cancel-icon": {
+      "fontCharacter": "\\EA17"
+    },
+    "testing-error-icon": {
+      "fontCharacter": "\\EA1C"
+    },
+    "testing-failed-icon": {
+      "fontCharacter": "\\EA17"
+    },
+    "testing-loading-icon": {
+      "fontCharacter": "\\EA76"
+    },
+    "testing-passed-icon": {
+      "fontCharacter": "\\EB23"
+    },
+    "testing-queued-icon": {
+      "fontCharacter": "\\EA77"
+    },
+    "testing-skipped-icon": {
+      "fontCharacter": "\\EA20"
+    },
+    "testing-unset-icon": {
+      "fontCharacter": "\\EB01"
     }
   }
 }
