@@ -1863,6 +1863,36 @@
     },
     "testing-unset-icon": {
       "fontCharacter": "\\EB01"
+    },
+    "getting-started-advanced": {
+      "fontCharacter": "\\EAB0"
+    },
+    "getting-started-beginner": {
+      "fontCharacter": "\\EA6F"
+    },
+    "getting-started-interactive-playground": {
+      "fontCharacter": "\\EA4D"
+    },
+    "getting-started-intermediate": {
+      "fontCharacter": "\\EAE2"
+    },
+    "getting-started-item-checked": {
+      "fontCharacter": "\\EB23"
+    },
+    "getting-started-item-unchecked": {
+      "fontCharacter": "\\EB01"
+    },
+    "getting-started-open-folder": {
+      "fontCharacter": "\\EB2B"
+    },
+    "private-ports-view-icon": {
+      "fontCharacter": "\\EA29"
+    },
+    "public-ports-view-icon": {
+      "fontCharacter": "\\EA20"
+    },
+    "notebook-render-output": {
+      "fontCharacter": "\\EA57"
     }
   }
 }
