@@ -1893,6 +1893,12 @@
     },
     "notebook-render-output": {
       "fontCharacter": "\\EA57"
+    },
+    "getting-started-setup": {
+      "fontCharacter": "\\EAE2"
+    },
+    "getting-started-codespaces": {
+      "fontCharacter": "\\EA9B"
     }
   }
 }
