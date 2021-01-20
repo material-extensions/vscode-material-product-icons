@@ -79,9 +79,6 @@
     "bell-dot": {
       "fontCharacter": "\\EA16"
     },
-    "close": {
-      "fontCharacter": "\\EA17"
-    },
     "compare-changes": {
       "fontCharacter": "\\EA18"
     },
@@ -1128,9 +1125,6 @@
     },
     "circle-outline": {
       "fontCharacter": "\\EB01"
-    },
-    "close-dirty": {
-      "fontCharacter": "\\EB00"
     },
     "circuit-board": {
       "fontCharacter": "\\EB02"

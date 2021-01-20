@@ -1,7 +1,4 @@
 {
-    "watch": [
-        "src/",
-        "icons/"
-    ],
-    "ext": "ts, svg, css"
+  "watch": ["src/", "icons/"],
+  "ext": "ts, svg, css"
 }
