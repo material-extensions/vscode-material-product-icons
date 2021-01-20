@@ -1899,6 +1899,12 @@
     },
     "getting-started-codespaces": {
       "fontCharacter": "\\EA9B"
+    },
+    "combine": {
+      "fontCharacter": "\\EB28"
+    },
+    "gather": {
+      "fontCharacter": "\\EA6D"
     }
   }
 }
