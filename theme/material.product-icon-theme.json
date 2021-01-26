@@ -1899,6 +1899,9 @@
     },
     "gather": {
       "fontCharacter": "\\EA6D"
+    },
+    "testing-run-all-icon": {
+      "fontCharacter": "\\EAF2"
     }
   }
 }
