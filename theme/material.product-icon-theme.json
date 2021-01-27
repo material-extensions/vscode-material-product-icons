@@ -1902,6 +1902,9 @@
     },
     "testing-run-all-icon": {
       "fontCharacter": "\\EAF2"
+    },
+    "open-editors-view-icon": {
+      "fontCharacter": "\\EA93"
     }
   }
 }
