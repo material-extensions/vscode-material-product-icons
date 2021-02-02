@@ -9,9 +9,27 @@
 
 <h4 align="center">Get the Material Design icons into your VS Code.</h4>
 
-## Overview
+## Preview
 
-<img src="https://github.com/PKief/vscode-material-product-icons/raw/master/images/preview.png" alt="Preview">
+This extension replaces the VS Code default icons with the Material Design icons:
+
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/master/images/preview-explorer.png" alt="Preview explorer" width="400xp">
+
+## How to activate
+
+The product icons can be activated via command palette:
+
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/master/images/how-to-activate.gif" alt="How to activate">
+
+or user settings:
+
+```json
+"workbench.productIconTheme": "material-product-icons"
+```
+
+## Icon set
+
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/master/images/preview.png" alt="Preview">
 
 ## Icon sources
 
