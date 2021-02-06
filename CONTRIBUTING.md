@@ -60,7 +60,7 @@ Here a new association can be added by selecting a VS Code icon as the key (e.g.
 
 ### Preview icon in VS Code
 
-The icons can be previewed if the launch task "Launch Extension" is executed by pressing the shortcut <kbd>F5</kbd>. After a few seconds
+The icons can be previewed if the launch task "Launch Extension" is executed by pressing the shortcut <kbd>F5</kbd>.
 
 ## Create preview screenshot
 
