@@ -1905,6 +1905,18 @@
     },
     "open-editors-view-icon": {
       "fontCharacter": "\\EA93"
+    },
+    "extension-workspace-trust": {
+      "fontCharacter": "\\EACF"
+    },
+    "ports-open-preview-icon": {
+      "fontCharacter": "\\EA84"
+    },
+    "testing-filter": {
+      "fontCharacter": "\\EA25"
+    },
+    "workspace-trust-icon": {
+      "fontCharacter": "\\EACF"
     }
   }
 }
