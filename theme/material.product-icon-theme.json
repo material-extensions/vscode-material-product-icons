@@ -1384,6 +1384,9 @@
     "git-pull-request-abandoned": {
       "fontCharacter": "\\EB29"
     },
+    "git-pull-request-create": {
+      "fontCharacter": "\\EB29"
+    },
     "gist-fork": {
       "fontCharacter": "\\EB2A"
     },
@@ -1917,6 +1920,24 @@
     },
     "workspace-trust-icon": {
       "fontCharacter": "\\EACF"
+    },
+    "testing-autorun": {
+      "fontCharacter": "\\EA4E"
+    },
+    "table": {
+      "fontCharacter": "\\EB48"
+    },
+    "variable-group": {
+      "fontCharacter": "\\EAFC"
+    },
+    "type-hierarchy": {
+      "fontCharacter": "\\EA10"
+    },
+    "type-hierarchy-super": {
+      "fontCharacter": "\\EAF0"
+    },
+    "type-hierarchy-sub": {
+      "fontCharacter": "\\EAEE"
     }
   }
 }
