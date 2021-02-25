@@ -1938,6 +1938,24 @@
     },
     "type-hierarchy-sub": {
       "fontCharacter": "\\EAEE"
+    },
+    "ports-forwarded-with-process-icon": {
+      "fontCharacter": "\\EB00"
+    },
+    "ports-forwarded-without-process-icon": {
+      "fontCharacter": "\\EB01"
+    },
+    "ports-copy-address-icon": {
+      "fontCharacter": "\\EA9F"
+    },
+    "run-above": {
+      "fontCharacter": "\\EA90"
+    },
+    "run-below": {
+      "fontCharacter": "\\EA8E"
+    },
+    "notebook-template": {
+      "fontCharacter": "\\EB40"
     }
   }
 }
