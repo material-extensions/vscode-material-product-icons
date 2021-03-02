@@ -1956,6 +1956,9 @@
     },
     "notebook-template": {
       "fontCharacter": "\\EB40"
+    },
+    "debug-rerun": {
+      "fontCharacter": "\\EB0F"
     }
   }
 }
