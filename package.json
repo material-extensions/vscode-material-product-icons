@@ -2,7 +2,7 @@
   "name": "material-product-icons",
   "displayName": "Material Product Icons",
   "description": "Product Icon Theme with Material Icons for VS Code",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "publisher": "PKief",
   "engines": {
     "vscode": "^1.53.0"
@@ -46,7 +46,7 @@
     "puppeteer": "^3.0.4",
     "ts-node": "^8.10.1",
     "typescript": "^3.9.2",
-    "webfont": "^9.0.0"
+    "webfont": "^11.2.26"
   },
   "scripts": {
     "start": "nodemon ./src/index.ts",
