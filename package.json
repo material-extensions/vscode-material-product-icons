@@ -50,7 +50,7 @@
   },
   "scripts": {
     "start": "nodemon ./src/index.ts",
-    "build": "ts-node ./src/index.ts",
-    "preview": "ts-node ./src/scripts/preview/index.ts"
+    "build": "node_modules/ts-node/dist/bin.js ./src/index.ts",
+    "preview": "node_modules/ts-node/dist/bin.js ./src/scripts/preview/index.ts"
   }
 }
