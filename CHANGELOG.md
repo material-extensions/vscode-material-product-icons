@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.1 (2021-08-15)
+
+### Fixes
+
+- Fix missing logo in Readme
+
 ## 1.1.0 (2021-08-15)
 
 ### Updated icons

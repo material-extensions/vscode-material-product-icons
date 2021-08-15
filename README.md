@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://github.com/PKief/vscode-material-product-icons/raw/master/logo.png" alt="logo" width="200">
+    <img src="https://github.com/PKief/vscode-material-product-icons/raw/main/logo.png" alt="logo" width="200">
   <br><br>
   Material Product Icons
   <br>
@@ -13,13 +13,13 @@
 
 This extension replaces the VS Code default icons with the Material Design icons:
 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/master/images/preview-explorer.png" alt="Preview explorer" width="400xp">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/main/images/preview-explorer.png" alt="Preview explorer" width="400xp">
 
 ## How to activate
 
 The product icons can be activated via command palette:
 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/master/images/how-to-activate.gif" alt="How to activate">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/main/images/how-to-activate.gif" alt="How to activate">
 
 or user settings:
 
@@ -29,7 +29,7 @@ or user settings:
 
 ## Icon set
 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/master/images/preview.png" alt="Preview">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/main/images/preview.png" alt="Preview">
 
 ## Icon sources
 
@@ -38,4 +38,4 @@ or user settings:
 
 **You want to contribute?**
 
-Take a look at the [contribution guidelines](https://github.com/PKief/vscode-material-product-icons/blob/master/CONTRIBUTING.md) and open a [new issue](https://github.com/PKief/vscode-material-product-icons/issues) or [pull request](https://github.com/PKief/vscode-material-product-icons/pulls) on GitHub.
+Take a look at the [contribution guidelines](https://github.com/PKief/vscode-material-product-icons/blob/main/CONTRIBUTING.md) and open a [new issue](https://github.com/PKief/vscode-material-product-icons/issues) or [pull request](https://github.com/PKief/vscode-material-product-icons/pulls) on GitHub.
