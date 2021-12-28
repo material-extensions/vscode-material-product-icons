@@ -184,9 +184,6 @@
     "preserve-case": {
       "fontCharacter": "\\EA2F"
     },
-    "find-close": {
-      "fontCharacter": "\\EA17"
-    },
     "find-next-match": {
       "fontCharacter": "\\EA2B"
     },
@@ -532,9 +529,6 @@
     "search-collapse-results": {
       "fontCharacter": "\\EA0C"
     },
-    "search-goto-file": {
-      "fontCharacter": "\\EA12"
-    },
     "search-refresh": {
       "fontCharacter": "\\EA0B"
     },
@@ -590,9 +584,6 @@
       "fontCharacter": "\\EA87"
     },
     "pencil": {
-      "fontCharacter": "\\EA89"
-    },
-    "preferences-edit": {
       "fontCharacter": "\\EA89"
     },
     "edit": {
@@ -1807,9 +1798,6 @@
     "notebook-kernel-select": {
       "fontCharacter": "\\EB32"
     },
-    "testing-view-icon": {
-      "fontCharacter": "\\EA7A"
-    },
     "testing-show-as-list-icon": {
       "fontCharacter": "\\EA11"
     },
@@ -1840,9 +1828,6 @@
     "testing-failed-icon": {
       "fontCharacter": "\\EA17"
     },
-    "testing-loading-icon": {
-      "fontCharacter": "\\EA76"
-    },
     "testing-passed-icon": {
       "fontCharacter": "\\EB23"
     },
@@ -1855,41 +1840,26 @@
     "testing-unset-icon": {
       "fontCharacter": "\\EB01"
     },
-    "getting-started-advanced": {
-      "fontCharacter": "\\EAB0"
-    },
     "getting-started-beginner": {
       "fontCharacter": "\\EA6F"
-    },
-    "getting-started-interactive-playground": {
-      "fontCharacter": "\\EA4D"
     },
     "getting-started-intermediate": {
       "fontCharacter": "\\EAE2"
     },
-    "getting-started-item-checked": {
+    "getting-started-step-checked": {
       "fontCharacter": "\\EB23"
     },
-    "getting-started-item-unchecked": {
+    "getting-started-step-unchecked": {
       "fontCharacter": "\\EB01"
-    },
-    "getting-started-open-folder": {
-      "fontCharacter": "\\EB2B"
     },
     "private-ports-view-icon": {
       "fontCharacter": "\\EA29"
-    },
-    "public-ports-view-icon": {
-      "fontCharacter": "\\EA20"
     },
     "notebook-render-output": {
       "fontCharacter": "\\EA57"
     },
     "getting-started-setup": {
       "fontCharacter": "\\EAE2"
-    },
-    "getting-started-codespaces": {
-      "fontCharacter": "\\EA9B"
     },
     "combine": {
       "fontCharacter": "\\EB28"
@@ -1911,9 +1881,6 @@
     },
     "testing-filter": {
       "fontCharacter": "\\EA25"
-    },
-    "workspace-trust-icon": {
-      "fontCharacter": "\\EACF"
     },
     "testing-autorun": {
       "fontCharacter": "\\EA4E"
