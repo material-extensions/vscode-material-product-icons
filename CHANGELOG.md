@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.2 (2022-02-05)
+
+### Fixes
+
+- Fix issue with menu more icon
+- Fix Restart and Disconnect debuggin use the same icon ([issue #28](https://github.com/PKief/vscode-material-product-icons/issues/28))
+
 ## 1.1.1 (2021-08-15)
 
 ### Fixes
