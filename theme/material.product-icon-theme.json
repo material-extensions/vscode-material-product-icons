@@ -14,7 +14,7 @@
   ],
   "iconDefinitions": {
     "files": {
-      "fontCharacter": "\\EA01"
+      "fontCharacter": "\\EB42"
     },
     "search": {
       "fontCharacter": "\\EA02"
@@ -1243,12 +1243,6 @@
     "move": {
       "fontCharacter": "\\EA6E"
     },
-    "menu-submenu": {
-      "fontCharacter": "\\EB0A"
-    },
-    "menu": {
-      "fontCharacter": "\\EA7E"
-    },
     "marker-navigation-previous": {
       "fontCharacter": "\\EA30"
     },
@@ -1920,6 +1914,18 @@
     },
     "debug-rerun": {
       "fontCharacter": "\\EB0F"
+    },
+    "activity-bar-left": {
+      "fontCharacter": "\\EA30"
+    },
+    "activity-bar-right": {
+      "fontCharacter": "\\EA2B"
+    },
+    "layout-activitybar-left": {
+      "fontCharacter": "\\EA30"
+    },
+    "layout-activitybar-right": {
+      "fontCharacter": "\\EA2B"
     }
   }
 }
