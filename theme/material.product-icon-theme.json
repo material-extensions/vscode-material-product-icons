@@ -1225,9 +1225,6 @@
     "github-action": {
       "fontCharacter": "\\EB10"
     },
-    "menu-selection": {
-      "fontCharacter": "\\EA0F"
-    },
     "folder": {
       "fontCharacter": "\\EA50"
     },
