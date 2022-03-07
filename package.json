@@ -52,6 +52,8 @@
   "scripts": {
     "start": "nodemon ./src/index.ts",
     "build": "ts-node ./src/index.ts",
-    "preview": "ts-node ./src/scripts/preview/index.ts"
+    "preview": "ts-node ./src/scripts/preview/index.ts",
+    "changelog": "changelog-machine --config changelog.config.json",
+    "version": "npm run changelog && git add CHANGELOG.md"
   }
 }
