@@ -1,5 +1,5 @@
-import * as path from "path";
-import * as puppeteer from "puppeteer";
+import * as path from 'path';
+import puppeteer from 'puppeteer';
 
 /**
  * Create a screenshot from an HTML file and save it as image.
@@ -8,7 +8,7 @@ import * as puppeteer from "puppeteer";
  */
 export const createScreenshot = async (filePath: string, fileName: string) => {
   try {
-    const htmlFilePath = path.join("file:", filePath);
+    const htmlFilePath = path.join('file:', filePath);
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.setViewport({
@@ -27,6 +27,6 @@ export const createScreenshot = async (filePath: string, fileName: string) => {
     await browser.close();
   } catch (error) {
     console.error(error);
-    throw Error(error);
+    throw Error('An error occurred!');
   }
 };
