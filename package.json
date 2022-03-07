@@ -2,7 +2,7 @@
   "name": "material-product-icons",
   "displayName": "Material Product Icons",
   "description": "Product Icon Theme with Material Icons for VS Code",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "publisher": "PKief",
   "engines": {
     "vscode": "^1.53.0"
