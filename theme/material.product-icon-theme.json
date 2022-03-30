@@ -1923,6 +1923,30 @@
     },
     "layout-activitybar-right": {
       "fontCharacter": "\\EA2B"
+    },
+    "extensions-verified-publisher": {
+      "fontCharacter": "\\EAEC"
+    },
+    "workspace-trust-banner": {
+      "fontCharacter": "\\EACF"
+    },
+    "workspace-trust-editor-check": {
+      "fontCharacter": "\\EA0F"
+    },
+    "workspace-trust-editor-cross": {
+      "fontCharacter": "\\EA17"
+    },
+    "workspace-trust-editor-edit-folder": {
+      "fontCharacter": "\\EA89"
+    },
+    "workspace-trust-editor-folder-picker": {
+      "fontCharacter": "\\EA50"
+    },
+    "workspace-trust-editor-remove-folder": {
+      "fontCharacter": "\\EB4C"
+    },
+    "configure-layout-icon": {
+      "fontCharacter": "\\EAD3"
     }
   }
 }
