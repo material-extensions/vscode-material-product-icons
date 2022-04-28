@@ -3,6 +3,13 @@
  All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
  
+#### [v1.3.0](https://github.com/PKief/vscode-material-product-icons/compare/v1.2.0...v1.3.0) 
+
+> April 28, 2022 
+
+- Adjust workspace trust icons [`#35`](https://github.com/PKief/vscode-material-product-icons/pull/35)
+- Bump minimist from 1.2.5 to 1.2.6 [`#36`](https://github.com/PKief/vscode-material-product-icons/pull/36)
+ 
 #### [v1.2.0](https://github.com/PKief/vscode-material-product-icons/compare/v1.1.2...v1.2.0) 
 
 > March 7, 2022 
