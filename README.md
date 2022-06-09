@@ -9,6 +9,13 @@
 
 <h4 align="center">Get the Material Design icons into your VS Code.</h4>
 
+<p align="center">
+    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://vsmarketplacebadge.apphb.com/version-short/pkief.material-product-icons.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=VERSION" alt="Version"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://vsmarketplacebadge.apphb.com/rating-short/pkief.material-product-icons.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Rating" alt="Rating"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://vsmarketplacebadge.apphb.com/installs-short/PKief.material-product-icons.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Installs" alt="Installs"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/PKief.material-product-icons.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Downloads" alt="Downloads"></a>
+</p>
+
 ## Preview
 
 This extension replaces the VS Code default icons with the Material Design icons:
