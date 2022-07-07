@@ -47,9 +47,6 @@
     },
     "virtualWorkspaces": true
   },
-  "activationEvents": [
-    "onStartupFinished"
-  ],
   "categories": [
     "Themes"
   ],
