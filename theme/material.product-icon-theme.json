@@ -107,7 +107,7 @@
       "fontCharacter": "\\EA88"
     },
     "sync": {
-      "fontCharacter": "\\EA0B"
+      "fontCharacter": "\\EB47"
     },
     "debug-pause": {
       "fontCharacter": "\\EA1E"
@@ -890,7 +890,7 @@
       "fontCharacter": "\\EA31"
     },
     "repo-sync": {
-      "fontCharacter": "\\EA0B"
+      "fontCharacter": "\\EB47"
     },
     "reply": {
       "fontCharacter": "\\EACD"
