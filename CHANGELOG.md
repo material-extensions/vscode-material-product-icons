@@ -3,6 +3,16 @@
  All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
  
+#### [v1.4.0](https://github.com/PKief/vscode-material-product-icons/compare/v1.3.0...v1.4.0) 
+
+> August 9, 2022 
+
+- Update release workflow [`#44`](https://github.com/PKief/vscode-material-product-icons/pull/44)
+- Change "Sync Repo" icon [`#43`](https://github.com/PKief/vscode-material-product-icons/pull/43)
+- Change "Clone Git Repo" Icon [`#42`](https://github.com/PKief/vscode-material-product-icons/pull/42)
+- Add DND bell icon [`#38`](https://github.com/PKief/vscode-material-product-icons/pull/38)
+- Update Readme and package.json [`#37`](https://github.com/PKief/vscode-material-product-icons/pull/37)
+ 
 #### [v1.3.0](https://github.com/PKief/vscode-material-product-icons/compare/v1.2.0...v1.3.0) 
 
 > April 28, 2022 
