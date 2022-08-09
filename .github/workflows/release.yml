@@ -58,11 +58,13 @@ jobs:
           generate_release_notes: true
       - name: Publish to Open VSX Registry 🌐
         uses: HaaLeo/publish-vscode-extension@v1
+        continue-on-error: true
         with:
           pat: ${{ secrets.OPEN_VSX_TOKEN }}
           extensionFile: ${{ env.NAME }}-${{ env.VERSION }}.vsix
       - name: Publish to Visual Studio Marketplace 🌐
         uses: HaaLeo/publish-vscode-extension@v1
+        continue-on-error: true
         with:
           pat: ${{ secrets.VS_MARKETPLACE_TOKEN }}
           registryUrl: https://marketplace.visualstudio.com
