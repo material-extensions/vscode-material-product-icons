@@ -1192,9 +1192,6 @@
     "debug-restart-frame": {
       "fontCharacter": "\\EB0F"
     },
-    "debug-stackframe": {
-      "fontCharacter": "\\e030"
-    },
     "play": {
       "fontCharacter": "\\EA1F"
     },
