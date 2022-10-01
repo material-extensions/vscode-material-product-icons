@@ -3,6 +3,12 @@
  All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
  
+#### [v1.4.1](https://github.com/PKief/vscode-material-product-icons/compare/v1.4.0...v1.4.1) 
+
+> October 1, 2022 
+
+- Fix Icon in Debug View is Missing [`#47`](https://github.com/PKief/vscode-material-product-icons/pull/47)
+ 
 #### [v1.4.0](https://github.com/PKief/vscode-material-product-icons/compare/v1.3.0...v1.4.0) 
 
 > August 9, 2022 
