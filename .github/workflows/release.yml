@@ -30,7 +30,7 @@ jobs:
       - name: Install node_modules 📦
         run: |
           npm ci
-          npm install --global vsce
+          npm install --global @vscode/vsce
       - name: Update version ↗
         run: |
           git config --global user.name 'Philipp Kief'
