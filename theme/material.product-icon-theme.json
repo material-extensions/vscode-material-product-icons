@@ -1402,6 +1402,9 @@
     "gist-secret": {
       "fontCharacter": "\\EB37"
     },
+    "debug-stackframe": {
+      "fontCharacter": "\\EB01"
+    },
     "debug-stackframe-active": {
       "fontCharacter": "\\EB38"
     },
