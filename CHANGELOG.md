@@ -3,6 +3,18 @@
  All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
  
+#### [v1.5.0](https://github.com/PKief/vscode-material-product-icons/compare/v1.4.1...v1.5.0) 
+
+> February 27, 2023 
+
+- Update release yaml [`06e78b0`](https://github.com/PKief/vscode-material-product-icons/commit/06e78b0)
+- Fix "debug-stackframe" related issue [`#51`](https://github.com/PKief/vscode-material-product-icons/pull/51)
+- Make "debug-alt" more consistent [`#52`](https://github.com/PKief/vscode-material-product-icons/pull/52)
+- Update badges [`5a4f7ce`](https://github.com/PKief/vscode-material-product-icons/commit/5a4f7ce)
+- Bump @xmldom/xmldom from 0.7.5 to 0.7.6 [`#53`](https://github.com/PKief/vscode-material-product-icons/pull/53)
+- Update release workflow [`ef91165`](https://github.com/PKief/vscode-material-product-icons/commit/ef91165)
+- Bump got and nodemon [`#48`](https://github.com/PKief/vscode-material-product-icons/pull/48)
+ 
 #### [v1.4.1](https://github.com/PKief/vscode-material-product-icons/compare/v1.4.0...v1.4.1) 
 
 > October 1, 2022 
