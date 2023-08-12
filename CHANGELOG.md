@@ -3,6 +3,17 @@
  All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
  
+#### [v1.6.0](https://github.com/PKief/vscode-material-product-icons/compare/v1.5.0...v1.6.0) 
+
+> August 12, 2023 
+
+- Update workflow files [`72fbd36`](https://github.com/PKief/vscode-material-product-icons/commit/72fbd36)
+- Improve code quality checks and performance of actions pipeline [`703da6f`](https://github.com/PKief/vscode-material-product-icons/commit/703da6f)
+- fix: Arrow icon in search box [`#57`](https://github.com/PKief/vscode-material-product-icons/pull/57)
+- Update badges [`2738368`](https://github.com/PKief/vscode-material-product-icons/commit/2738368)
+- Bump @xmldom/xmldom from 0.7.6 to 0.7.9 [`#54`](https://github.com/PKief/vscode-material-product-icons/pull/54)
+- Bump nunjucks from 3.2.3 to 3.2.4 [`#55`](https://github.com/PKief/vscode-material-product-icons/pull/55)
+ 
 #### [v1.5.0](https://github.com/PKief/vscode-material-product-icons/compare/v1.4.1...v1.5.0) 
 
 > February 27, 2023 
