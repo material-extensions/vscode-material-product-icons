@@ -1,12 +1,12 @@
-import webfont from "webfont";
-import { promises as fs } from "fs";
+import { promises as fs } from 'fs';
+import webfont from 'webfont';
 
 webfont({
-  files: "icons/**/*.svg",
-  fontName: "material-icons",
-  formats: ["woff"],
+  files: 'icons/**/*.svg',
+  fontName: 'material-icons',
+  formats: ['woff'],
   glyphTransformFn: (obj) => {
-    obj.name += "_transform";
+    obj.name += '_transform';
     return obj;
   },
   prependUnicode: true,
@@ -20,6 +20,6 @@ webfont({
     throw error;
   });
 
-async function save(result: Uint8Array) {
-  await fs.writeFile("theme/material-icons.woff", result);
-}
+const save = (result: Uint8Array) => {
+  return fs.writeFile('theme/material-icons.woff', result);
+};

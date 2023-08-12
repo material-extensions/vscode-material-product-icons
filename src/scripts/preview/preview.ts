@@ -1,11 +1,10 @@
-import * as fs from "fs";
-import * as path from "path";
-import { toTitleCase } from "./../../helpers";
-import { createScreenshot } from "../../helpers/screenshots";
-import * as painter from "./../../helpers/painter";
+import * as fs from 'fs';
+import * as path from 'path';
+import { createScreenshot, toTitleCase } from '../../helpers';
+import * as painter from './../../helpers/painter';
 
-const htmlDoctype = "<!DOCTYPE html>";
-const cssFilePath = path.join("style.css");
+const htmlDoctype = '<!DOCTYPE html>';
+const cssFilePath = path.join('style.css');
 const styling = `<link rel="stylesheet" href="${cssFilePath}">`;
 
 const createHTMLTableHeadRow = (amount: number) => {
@@ -13,7 +12,7 @@ const createHTMLTableHeadRow = (amount: number) => {
         <th class="icon">Icon</th>
         <th class="iconName">Name</th>
     `;
-  const columns = [...Array(amount)].map(() => pair).join("");
+  const columns = [...Array(amount)].map(() => pair).join('');
   return `
         <tr>
             ${columns}
@@ -22,22 +21,22 @@ const createHTMLTableHeadRow = (amount: number) => {
 };
 
 const createHTMLTableBodyRows = (items: IconDefinition[][]) => {
-  let rows = "";
+  let rows = '';
   items.forEach((row) => {
     const columns = row
       .map(
         (icon) => `
             <td class="icon">
                 <img src="./../../../icons/${icon.fileName}" alt="${
-          icon.iconName
-        }">
+                  icon.iconName
+                }">
             </td>
             <td class="iconName">${toTitleCase(icon.iconName)} (${
-          icon.unicode
-        })</td>
+              icon.unicode
+            })</td>
         `
       )
-      .join("");
+      .join('');
     const tableRow = `
             <tr>
                 ${columns}
@@ -71,7 +70,7 @@ const savePreview = (
   size: number,
   icons: IconDefinition[][]
 ) => {
-  const filePath = path.join(__dirname, fileName + ".html");
+  const filePath = path.join(__dirname, fileName + '.html');
 
   // write the html file with the icon table
   fs.writeFileSync(filePath, createPreviewTable(icons, size));
@@ -80,7 +79,7 @@ const savePreview = (
   createScreenshot(filePath, fileName)
     .then(() => {
       console.log(
-        "> Material Icon Theme:",
+        '> Material Icon Theme:',
         painter.green(`Successfully created ${fileName} image!`)
       );
     })
