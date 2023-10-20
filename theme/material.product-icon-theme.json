@@ -1956,6 +1956,15 @@
     },
     "bell-slash-dot": {
       "fontCharacter": "\\EA16"
+    },
+    "extensions-sponsor": {
+      "fontCharacter": "\\EAE2"
+    },
+    "theme-selection-manage-extension": {
+      "fontCharacter": "\\EA08"
+    },
+    "testing-update-profiles": {
+      "fontCharacter": "\\EA08"
     }
   }
 }
