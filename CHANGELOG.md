@@ -3,6 +3,14 @@
  All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
  
+#### [v1.7.0](https://github.com/PKief/vscode-material-product-icons/compare/v1.6.0...v1.7.0) 
+
+> October 25, 2023 
+
+- Add symbol method icon [`#60`](https://github.com/PKief/vscode-material-product-icons/pull/60)
+- Add additional icon associations [`dcb4d74`](https://github.com/PKief/vscode-material-product-icons/commit/dcb4d74)
+- Update dependencies [`0d764a8`](https://github.com/PKief/vscode-material-product-icons/commit/0d764a8)
+ 
 #### [v1.6.0](https://github.com/PKief/vscode-material-product-icons/compare/v1.5.0...v1.6.0) 
 
 > August 12, 2023 
