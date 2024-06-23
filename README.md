@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://github.com/PKief/vscode-material-product-icons/raw/main/logo.png" alt="logo" width="200">
+    <img src="https://github.com/material-extensions/vscode-material-product-icons/raw/main/logo.png" alt="logo" width="200">
   <br><br>
   Material Product Icons
   <br>
@@ -45,4 +45,4 @@ or user settings:
 
 **You want to contribute?**
 
-Take a look at the [contribution guidelines](https://github.com/PKief/vscode-material-product-icons/blob/main/CONTRIBUTING.md) and open a [new issue](https://github.com/PKief/vscode-material-product-icons/issues) or [pull request](https://github.com/PKief/vscode-material-product-icons/pulls) on GitHub.
+Take a look at the [contribution guidelines](https://github.com/material-extensions/vscode-material-product-icons/blob/main/CONTRIBUTING.md) and open a [new issue](https://github.com/material-extensions/vscode-material-product-icons/issues) or [pull request](https://github.com/material-extensions/vscode-material-product-icons/pulls) on GitHub.

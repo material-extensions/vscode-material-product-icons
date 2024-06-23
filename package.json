@@ -25,13 +25,13 @@
     "version": "npm run changelog && git add CHANGELOG.md",
     "lint": "eslint -c .eslintrc.json --ext .ts ./src/**/*.ts"
   },
-  "homepage": "https://github.com/PKief/vscode-material-product-icons/blob/master/README.md",
+  "homepage": "https://github.com/material-extensions/vscode-material-product-icons/blob/master/README.md",
   "repository": {
-    "url": "https://github.com/PKief/vscode-material-product-icons.git",
+    "url": "https://github.com/material-extensions/vscode-material-product-icons.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/PKief/vscode-material-product-icons/issues"
+    "url": "https://github.com/material-extensions/vscode-material-product-icons/issues"
   },
   "icon": "logo.png",
   "galleryBanner": {
