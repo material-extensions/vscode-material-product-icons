@@ -2,7 +2,7 @@
   "name": "material-product-icons",
   "displayName": "Material Product Icons",
   "description": "Product Icon Theme with Material Icons for VS Code",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "publisher": "PKief",
   "author": {
     "name": "Philipp Kief",
@@ -39,14 +39,19 @@
     "color": "#1e1e1e",
     "theme": "dark"
   },
-  "extensionKind": ["ui", "workspace"],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
   "capabilities": {
     "untrustedWorkspaces": {
       "supported": true
     },
     "virtualWorkspaces": true
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "keywords": [
     "icons",
     "theme",
