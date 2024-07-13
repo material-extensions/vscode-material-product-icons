@@ -31,9 +31,7 @@ const createHTMLTableBodyRows = (items: IconDefinition[][]) => {
                   icon.iconName
                 }">
             </td>
-            <td class="iconName">${toTitleCase(icon.iconName)} (${
-              icon.unicode
-            })</td>
+            <td class="iconName">${toTitleCase(icon.iconName)} (${icon.unicode})</td>
         `
       )
       .join('');

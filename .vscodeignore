@@ -19,3 +19,7 @@ package-lock.json
 yarn.lock
 webpack.config.js
 icons/**
+biome.jsonc
+changelog.config.json
+icon-template.svg
+nodemon.json

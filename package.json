@@ -7,7 +7,7 @@
   "author": {
     "name": "Philipp Kief",
     "email": "philipp.kief@gmx.de",
-    "url": "https://pkief.github.io"
+    "url": "https://pkief.com"
   },
   "funding": "https://github.com/sponsors/PKief",
   "sponsor": {
@@ -19,11 +19,12 @@
   "scripts": {
     "start": "nodemon ./src/index.ts",
     "build": "ts-node ./src/index.ts",
+    "lint": "npx @biomejs/biome check --write ./src",
+    "format": "npx @biomejs/biome format --write ./",
     "preview": "ts-node ./src/scripts/preview/index.ts",
     "changelog": "changelog-machine --config changelog.config.json",
     "preversion": "npm run preview && git add images/preview.png",
-    "version": "npm run changelog && git add CHANGELOG.md",
-    "lint": "eslint -c .eslintrc.json --ext .ts ./src/**/*.ts"
+    "version": "npm run changelog && git add CHANGELOG.md"
   },
   "homepage": "https://github.com/material-extensions/vscode-material-product-icons/blob/master/README.md",
   "repository": {
@@ -38,19 +39,14 @@
     "color": "#1e1e1e",
     "theme": "dark"
   },
-  "extensionKind": [
-    "ui",
-    "workspace"
-  ],
+  "extensionKind": ["ui", "workspace"],
   "capabilities": {
     "untrustedWorkspaces": {
       "supported": true
     },
     "virtualWorkspaces": true
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "keywords": [
     "icons",
     "theme",
@@ -69,17 +65,13 @@
     ]
   },
   "devDependencies": {
+    "@biomejs/biome": "^1.8.3",
     "@types/puppeteer": "^7.0.4",
-    "@typescript-eslint/eslint-plugin": "^6.8.0",
-    "@typescript-eslint/parser": "^6.8.0",
     "changelog-machine": "^1.0.2",
-    "eslint": "^8.51.0",
-    "eslint-config-prettier": "^9.0.0",
-    "eslint-plugin-prettier": "^5.0.1",
-    "nodemon": "^3.0.1",
-    "puppeteer": "^21.3.8",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.2.2",
+    "nodemon": "^3.1.4",
+    "puppeteer": "^22.13.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3",
     "webfont": "^11.2.26"
   }
 }

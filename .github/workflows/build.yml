@@ -9,14 +9,7 @@ jobs:
 
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v3
-
-      - name: Setup Node.js ⚙️
-        uses: actions/setup-node@v3
-        with:
-          node-version: 'lts/*'
-          registry-url: 'https://registry.npmjs.org'
-          cache: 'npm'
+        uses: actions/checkout@v4
 
       - name: Install node_modules 📦
         run: npm ci
