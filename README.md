@@ -36,7 +36,7 @@ or user settings:
 
 ## Icon set
 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/main/images/preview.png" alt="Preview">
+<details><summary>🏞️ <b>Available icons</b></summary><br/><img src="https://raw.githubusercontent.com/PKief/vscode-material-product-icons/main/images/preview.png" alt="Preview"></details>
 
 ## Icon sources
 
