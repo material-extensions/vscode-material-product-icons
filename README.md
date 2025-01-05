@@ -10,10 +10,10 @@
 <h4 align="center">Get the Material Design icons into your VS Code.</h4>
 
 <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://img.shields.io/visual-studio-marketplace/v/PKief.material-icon-theme?style=for-the-badge&colorA=252526&colorB=43A047&label=Version" alt="Version"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://img.shields.io/visual-studio-marketplace/v/PKief.material-icon-theme?style=for-the-badge&colorA=252526&colorB=43A047&label=Rating" alt="Rating"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://img.shields.io/visual-studio-marketplace/v/PKief.material-icon-theme?style=for-the-badge&colorA=252526&colorB=43A047&label=Installs" alt="Installs"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://img.shields.io/visual-studio-marketplace/v/PKief.material-icon-theme?style=for-the-badge&colorA=252526&colorB=43A047&label=Downloads" alt="Downloads"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://img.shields.io/visual-studio-marketplace/v/PKief.material-product-icons?style=for-the-badge&colorA=252526&colorB=43A047&label=Version" alt="Version"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://img.shields.io/visual-studio-marketplace/r/PKief.material-product-icons?style=for-the-badge&colorA=252526&colorB=43A047&label=Rating" alt="Rating"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://img.shields.io/visual-studio-marketplace/i/PKief.material-product-icons?style=for-the-badge&colorA=252526&colorB=43A047&label=Installs" alt="Installs"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons"><img src="https://img.shields.io/visual-studio-marketplace/d/PKief.material-product-icons?style=for-the-badge&colorA=252526&colorB=43A047&label=Downloads" alt="Downloads"></a>
 </p>
 
 ## Preview
