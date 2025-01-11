@@ -5,13 +5,9 @@
   "version": "1.7.1",
   "publisher": "PKief",
   "author": {
-    "name": "Philipp Kief",
-    "email": "philipp.kief@gmx.de",
-    "url": "https://pkief.com"
-  },
-  "funding": "https://github.com/sponsors/PKief",
-  "sponsor": {
-    "url": "https://github.com/sponsors/PKief"
+    "name": "Material Extensions",
+    "email": "material-icons-extensions@googlegroups.com",
+    "url": "https://github.com/material-extensions"
   },
   "engines": {
     "vscode": "^1.53.0"
@@ -39,19 +35,14 @@
     "color": "#1e1e1e",
     "theme": "dark"
   },
-  "extensionKind": [
-    "ui",
-    "workspace"
-  ],
+  "extensionKind": ["ui", "workspace"],
   "capabilities": {
     "untrustedWorkspaces": {
       "supported": true
     },
     "virtualWorkspaces": true
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "keywords": [
     "icons",
     "theme",
