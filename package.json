@@ -65,7 +65,7 @@
     "@types/puppeteer": "^7.0.4",
     "changelog-machine": "^1.0.2",
     "nodemon": "^3.1.4",
-    "puppeteer": "^22.13.0",
+    "puppeteer": "^22.15.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.3",
     "webfont": "^11.2.26"
