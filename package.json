@@ -57,6 +57,11 @@
         "id": "material-product-icons",
         "label": "Material Product Icons",
         "path": "./theme/material.product-icon-theme.json"
+      },
+      {
+        "id": "material-product-icons-outlined",
+        "label": "Material Product Icons (Outlined)",
+        "path": "./theme/material-outlined.product-icon-theme.json"
       }
     ]
   },
