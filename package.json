@@ -68,6 +68,6 @@
     "puppeteer": "^22.15.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.3",
-    "webfont": "^11.2.26"
+    "webfont": "^12.5.0"
   }
 }
